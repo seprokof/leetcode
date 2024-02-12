@@ -15,7 +15,7 @@ func TestTwoSum(t *testing.T) {
 	for _, c := range cases {
 		got := TwoSum(c.in1, c.in2)
 		if !equal(got, c.want) {
-			t.Errorf("TwoSum(%q, %q) == %q, want %q", c.in1, c.in2, got, c.want)
+			t.Errorf("TwoSum(%v, %v) == %v, want %v", c.in1, c.in2, got, c.want)
 		}
 	}
 }

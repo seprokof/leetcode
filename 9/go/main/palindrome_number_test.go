@@ -14,7 +14,7 @@ func TestIsPalindrome(t *testing.T) {
 	for _, c := range cases {
 		got := IsPalindrome(c.in)
 		if got != c.want {
-			t.Errorf("IsPalindrome(%q) == %t, want %t", c.in, got, c.want)
+			t.Errorf("IsPalindrome(%v) == %t, want %t", c.in, got, c.want)
 		}
 	}
 }
