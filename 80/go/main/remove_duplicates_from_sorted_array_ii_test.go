@@ -1,14 +1,16 @@
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestRemoveDuplicates(t *testing.T) {
 	cases := []struct {
 		in   []int
 		want []int
 	}{
-		{[]int{1, 1, 2}, []int{1, 2}},
-		{[]int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4}, []int{0, 1, 2, 3, 4}},
+		{[]int{1, 1, 1, 2, 2, 3}, []int{1, 1, 2, 2, 3}},
+		{[]int{0, 0, 1, 1, 1, 1, 2, 3, 3}, []int{0, 0, 1, 1, 2, 3, 3}},
 	}
 	for _, c := range cases {
 		inCopy := make([]int, len(c.in))
