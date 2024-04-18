@@ -25,16 +25,42 @@ func TestIsSameTree(t *testing.T) {
 
 // Creates binary tree from given level order traversal of its nodes values returning root of the tree.
 func makeTree(values []string) *TreeNode {
-	return makeSubTree(values, 0)
-}
-
-func makeSubTree(values []string, nodeIndex int) *TreeNode {
-	if nodeIndex >= len(values) {
+	if len(values) < 1 {
 		return nil
 	}
-	strVal, err := strconv.Atoi(values[nodeIndex])
+	root := convertNode(values[0])
+	if root == nil {
+		return nil
+	}
+	prevLevel := []*TreeNode{root}
+	index := 1
+	for index < len(values) {
+		currentLevel := make([]*TreeNode, 0, len(prevLevel)*2)
+		for i := 0; i < len(prevLevel); i++ {
+			leftNode := convertNode(values[index])
+			if leftNode != nil {
+				prevLevel[i].Left = leftNode
+				currentLevel = append(currentLevel, leftNode)
+			}
+			index++
+			if index < len(values) {
+				rightNode := convertNode(values[index])
+				if rightNode != nil {
+					prevLevel[i].Right = rightNode
+					currentLevel = append(currentLevel, rightNode)
+				}
+				index++
+			}
+		}
+		prevLevel = currentLevel
+	}
+	return root
+}
+
+func convertNode(value string) *TreeNode {
+	intVal, err := strconv.Atoi(value)
 	if err != nil {
 		return nil
 	}
-	return &TreeNode{Val: strVal, Left: makeSubTree(values, 2*nodeIndex+1), Right: makeSubTree(values, 2*nodeIndex+2)}
+	return &TreeNode{Val: intVal}
 }
