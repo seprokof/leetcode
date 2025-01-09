@@ -48,4 +48,5 @@ Solutions to problems from leetcode.com.
 [383](383). Ransom Note  
 [392](392). Is Subsequence  
 [1071](1071). Greatest Common Divisor of Strings  
+[1431](1431). Kids With the Greatest Number of Candies  
 [1768](1768). Merge Strings Alternately  
