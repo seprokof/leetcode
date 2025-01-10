@@ -44,7 +44,8 @@ Solutions to problems from leetcode.com.
 [205](205). Isomorphic Strings  
 [219](219). Contains Duplicate II  
 [242](242). Valid Anagram  
-[290](290). Word Pattern  
+[290](290). Word Pattern 
+[345](345). Reverse Vowels of a String  
 [383](383). Ransom Note  
 [392](392). Is Subsequence  
 [605](605). Can Place Flowers  
