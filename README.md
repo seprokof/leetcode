@@ -45,6 +45,7 @@ Solutions to problems from leetcode.com.
 [219](219). Contains Duplicate II  
 [238](238). Product of Array Except Self  
 [242](242). Valid Anagram  
+[283](283). Move Zeroes  
 [290](290). Word Pattern 
 [334](334). Increasing Triplet Subsequence  
 [345](345). Reverse Vowels of a String  
