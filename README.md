@@ -50,7 +50,8 @@ Solutions to problems from leetcode.com.
 [334](334). Increasing Triplet Subsequence  
 [345](345). Reverse Vowels of a String  
 [383](383). Ransom Note  
-[392](392). Is Subsequence  
+[392](392). Is Subsequence 
+[443](443). String Compression  
 [605](605). Can Place Flowers  
 [1071](1071). Greatest Common Divisor of Strings  
 [1431](1431). Kids With the Greatest Number of Candies  
