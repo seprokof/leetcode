@@ -57,4 +57,5 @@ Solutions to problems from leetcode.com.
 [1071](1071). Greatest Common Divisor of Strings  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1679](1679). Max Number of K-Sum Pairs  
+[1732](1732). Find the Highest Altitude  
 [1768](1768). Merge Strings Alternately  
