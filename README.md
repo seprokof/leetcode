@@ -56,6 +56,7 @@ Solutions to problems from leetcode.com.
 [605](605). Can Place Flowers  
 [724](724). Find Pivot Index  
 [1071](1071). Greatest Common Divisor of Strings  
+[1207](1207). Unique Number of Occurrences  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1679](1679). Max Number of K-Sum Pairs  
 [1732](1732). Find the Highest Altitude  
