@@ -52,6 +52,7 @@ Solutions to problems from leetcode.com.
 [345](345). Reverse Vowels of a String  
 [383](383). Ransom Note  
 [392](392). Is Subsequence  
+[394](394). Decode String  
 [443](443). String Compression  
 [605](605). Can Place Flowers  
 [724](724). Find Pivot Index  
