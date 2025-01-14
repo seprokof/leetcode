@@ -64,3 +64,4 @@ Solutions to problems from leetcode.com.
 [1768](1768). Merge Strings Alternately  
 [2215](2215). Find the Difference of Two Arrays  
 [2352](2352). Equal Row and Column Pairs  
+[2390](2390). Removing Stars From a String  
