@@ -56,6 +56,7 @@ Solutions to problems from leetcode.com.
 [394](394). Decode String  
 [443](443). String Compression  
 [605](605). Can Place Flowers  
+[700](700). Search in a Binary Search Tree  
 [724](724). Find Pivot Index  
 [735](735). Asteroid Collision  
 [933](933). Number of Recent Calls  
