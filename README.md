@@ -68,6 +68,7 @@ Solutions to problems from leetcode.com.
 [1679](1679). Max Number of K-Sum Pairs  
 [1732](1732). Find the Highest Altitude  
 [1768](1768). Merge Strings Alternately  
+[1926](1926). Nearest Exit from Entrance in Maze  
 [2095](2095). Delete the Middle Node of a Linked List  
 [2215](2215). Find the Difference of Two Arrays  
 [2352](2352). Equal Row and Column Pairs  
