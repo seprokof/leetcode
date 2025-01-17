@@ -52,6 +52,7 @@ Solutions to problems from leetcode.com.
 [290](290). Word Pattern  
 [334](334). Increasing Triplet Subsequence  
 [345](345). Reverse Vowels of a String  
+[374](374). Guess Number Higher or Lower  
 [383](383). Ransom Note  
 [392](392). Is Subsequence  
 [394](394). Decode String  
