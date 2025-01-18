@@ -69,6 +69,7 @@ Solutions to problems from leetcode.com.
 [1071](1071). Greatest Common Divisor of Strings  
 [1137](1137). N-th Tribonacci Number  
 [1207](1207). Unique Number of Occurrences  
+[1268](1268). Search Suggestions System  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1657](1657). Determine if Two Strings Are Close  
 [1679](1679). Max Number of K-Sum Pairs  
