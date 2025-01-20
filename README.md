@@ -77,6 +77,7 @@ Solutions to problems from leetcode.com.
 [1268](1268). Search Suggestions System  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1456](1456). Maximum Number of Vowels in a Substring of Given Length  
+[1493](1493). Longest Subarray of 1's After Deleting One Element  
 [1657](1657). Determine if Two Strings Are Close  
 [1679](1679). Max Number of K-Sum Pairs  
 [1732](1732). Find the Highest Altitude  
