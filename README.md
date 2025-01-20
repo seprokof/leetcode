@@ -70,6 +70,7 @@ Solutions to problems from leetcode.com.
 [841](841). Keys and Rooms  
 [901](901). Online Stock Span  
 [933](933). Number of Recent Calls  
+[1004](1004). Max Consecutive Ones III  
 [1071](1071). Greatest Common Divisor of Strings  
 [1137](1137). N-th Tribonacci Number  
 [1207](1207). Unique Number of Occurrences  
