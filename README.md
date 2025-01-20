@@ -65,6 +65,7 @@ Solutions to problems from leetcode.com.
 [700](700). Search in a Binary Search Tree  
 [724](724). Find Pivot Index  
 [735](735). Asteroid Collision  
+[739](739). Daily Temperatures  
 [841](841). Keys and Rooms  
 [933](933). Number of Recent Calls  
 [1071](1071). Greatest Common Divisor of Strings  
