@@ -62,6 +62,7 @@ Solutions to problems from leetcode.com.
 [435](435). Non-overlapping Intervals  
 [443](443). String Compression  
 [605](605). Can Place Flowers  
+[643](643). Maximum Average Subarray I  
 [700](700). Search in a Binary Search Tree  
 [724](724). Find Pivot Index  
 [735](735). Asteroid Collision  
