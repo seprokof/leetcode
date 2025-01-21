@@ -65,6 +65,7 @@ Solutions to problems from leetcode.com.
 [443](443). String Compression  
 [605](605). Can Place Flowers  
 [643](643). Maximum Average Subarray I  
+[649](649). Dota2 Senate  
 [700](700). Search in a Binary Search Tree  
 [724](724). Find Pivot Index  
 [735](735). Asteroid Collision  
