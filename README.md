@@ -71,6 +71,7 @@ Solutions to problems from leetcode.com.
 [735](735). Asteroid Collision  
 [739](739). Daily Temperatures  
 [841](841). Keys and Rooms  
+[872](872). Leaf-Similar Trees  
 [901](901). Online Stock Span  
 [933](933). Number of Recent Calls  
 [1004](1004). Max Consecutive Ones III  
