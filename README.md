@@ -86,6 +86,7 @@ Solutions to problems from leetcode.com.
 [1768](1768). Merge Strings Alternately  
 [1926](1926). Nearest Exit from Entrance in Maze  
 [2095](2095). Delete the Middle Node of a Linked List  
+[2130](2130). Maximum Twin Sum of a Linked List  
 [2215](2215). Find the Difference of Two Arrays  
 [2352](2352). Equal Row and Column Pairs  
 [2390](2390). Removing Stars From a String  
