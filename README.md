@@ -39,6 +39,7 @@ Solutions to problems from leetcode.com.
 [136](136). Single Number  
 [141](141). Linked List Cycle  
 [151](151). Reverse Words in a String  
+[162](162). Find Peak Element  
 [169](169). Majority Element  
 [172](172). Factorial Trailing Zeroes  
 [189](189). Rotate Array  
