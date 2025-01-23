@@ -75,6 +75,7 @@ Solutions to problems from leetcode.com.
 [724](724). Find Pivot Index  
 [735](735). Asteroid Collision  
 [739](739). Daily Temperatures  
+[746](746). Min Cost Climbing Stairs  
 [841](841). Keys and Rooms  
 [872](872). Leaf-Similar Trees  
 [901](901). Online Stock Span  
