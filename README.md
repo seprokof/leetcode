@@ -7,6 +7,7 @@ Solutions to problems from leetcode.com.
 [4](4). Median of Two Sorted Arrays  
 [5](5). Longest Palindromic Substring  
 [7](7). Reverse Integer  
+[8](8). String to Integer (atoi)  
 [9](9). Palindrome Number  
 [11](11). Container With Most Water  
 [13](13). Roman to Integer  
