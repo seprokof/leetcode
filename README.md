@@ -99,6 +99,7 @@ Solutions to problems from leetcode.com.
 [1732](1732). Find the Highest Altitude  
 [1768](1768). Merge Strings Alternately  
 [1926](1926). Nearest Exit from Entrance in Maze  
+[1971](1971). Find if Path Exists in Graph  
 [2095](2095). Delete the Middle Node of a Linked List  
 [2130](2130). Maximum Twin Sum of a Linked List  
 [2215](2215). Find the Difference of Two Arrays  
