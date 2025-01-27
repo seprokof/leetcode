@@ -105,6 +105,7 @@ Solutions to problems from leetcode.com.
 [2095](2095). Delete the Middle Node of a Linked List  
 [2130](2130). Maximum Twin Sum of a Linked List  
 [2215](2215). Find the Difference of Two Arrays  
+[2300](2300). Successful Pairs of Spells and Potions  
 [2336](2336). Smallest Number in Infinite Set  
 [2352](2352). Equal Row and Column Pairs  
 [2390](2390). Removing Stars From a String  
