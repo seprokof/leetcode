@@ -85,6 +85,7 @@ Solutions to problems from leetcode.com.
 [872](872). Leaf-Similar Trees  
 [901](901). Online Stock Span  
 [933](933). Number of Recent Calls  
+[994](994). Rotting Oranges  
 [1004](1004). Max Consecutive Ones III  
 [1071](1071). Greatest Common Divisor of Strings  
 [1137](1137). N-th Tribonacci Number  
