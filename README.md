@@ -19,6 +19,7 @@ Solutions to problems from leetcode.com.
 [26](26). Remove Duplicates from Sorted Array  
 [27](27). Remove Element  
 [28](28). Find the Index of the First Occurrence in a String  
+[33](33). Search in Rotated Sorted Array  
 [34](34). Find First and Last Position of Element in Sorted Array  
 [35](35). Search Insert Position  
 [50](50). Pow(x, n)  
