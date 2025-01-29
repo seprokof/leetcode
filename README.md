@@ -77,6 +77,7 @@ Solutions to problems from leetcode.com.
 [643](643). Maximum Average Subarray I  
 [649](649). Dota2 Senate  
 [700](700). Search in a Binary Search Tree  
+[704](704). Binary Search  
 [724](724). Find Pivot Index  
 [735](735). Asteroid Collision  
 [739](739). Daily Temperatures  
