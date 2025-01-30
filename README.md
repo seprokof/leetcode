@@ -49,6 +49,7 @@ Solutions to problems from leetcode.com.
 [189](189). Rotate Array  
 [198](198). House Robber  
 [199](199). Binary Tree Right Side View  
+[200](200). Number of Islands  
 [202](202). Happy Number  
 [205](205). Isomorphic Strings  
 [206](206). Reverse Linked List  
