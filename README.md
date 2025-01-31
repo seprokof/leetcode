@@ -71,6 +71,7 @@ Solutions to problems from leetcode.com.
 [392](392). Is Subsequence  
 [394](394). Decode String  
 [399](399). Evaluate Division  
+[424](424). Longest Repeating Character Replacement  
 [435](435). Non-overlapping Intervals  
 [437](437). Path Sum III  
 [443](443). String Compression  
