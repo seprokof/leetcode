@@ -107,6 +107,7 @@ Solutions to problems from leetcode.com.
 [1657](1657). Determine if Two Strings Are Close  
 [1679](1679). Max Number of K-Sum Pairs  
 [1732](1732). Find the Highest Altitude  
+[1752](1752). Check if Array Is Sorted and Rotated  
 [1768](1768). Merge Strings Alternately  
 [1926](1926). Nearest Exit from Entrance in Maze  
 [1971](1971). Find if Path Exists in Graph  
