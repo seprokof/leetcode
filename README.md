@@ -91,6 +91,7 @@ Solutions to problems from leetcode.com.
 [763](763). Partition Labels  
 [841](841). Keys and Rooms  
 [872](872). Leaf-Similar Trees  
+[875](875). Koko Eating Bananas  
 [901](901). Online Stock Span  
 [933](933). Number of Recent Calls  
 [994](994). Rotting Oranges  
