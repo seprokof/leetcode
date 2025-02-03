@@ -121,5 +121,6 @@ Solutions to problems from leetcode.com.
 [2390](2390). Removing Stars From a String  
 [2462](2462). Total Cost to Hire K Workers  
 [2542](2542). Maximum Subsequence Score  
+[3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
 [3151](3151). Special Array I  
 [3152](3152). Special Array II  
