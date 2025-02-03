@@ -23,6 +23,7 @@ Solutions to problems from leetcode.com.
 [34](34). Find First and Last Position of Element in Sorted Array  
 [35](35). Search Insert Position  
 [50](50). Pow(x, n)  
+[55](55). Jump Game  
 [56](56). Merge Intervals  
 [58](58). Length of Last Word  
 [66](66). Plus One  
