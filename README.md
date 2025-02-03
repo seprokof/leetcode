@@ -16,6 +16,7 @@ Solutions to problems from leetcode.com.
 [19](19). Remove Nth Node From End of List  
 [20](20). Valid Parentheses  
 [21](21). Merge Two Sorted Lists  
+[23](23). Merge k Sorted Lists  
 [26](26). Remove Duplicates from Sorted Array  
 [27](27). Remove Element  
 [28](28). Find the Index of the First Occurrence in a String  
