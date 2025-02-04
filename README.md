@@ -112,6 +112,7 @@ Solutions to problems from leetcode.com.
 [1732](1732). Find the Highest Altitude  
 [1752](1752). Check if Array Is Sorted and Rotated  
 [1768](1768). Merge Strings Alternately  
+[1800](1800). Maximum Ascending Subarray Sum  
 [1926](1926). Nearest Exit from Entrance in Maze  
 [1971](1971). Find if Path Exists in Graph  
 [2095](2095). Delete the Middle Node of a Linked List  
