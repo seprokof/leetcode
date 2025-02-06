@@ -41,6 +41,7 @@ Solutions to problems from leetcode.com.
 [104](104). Maximum Depth of Binary Tree  
 [108](108). Convert Sorted Array to Binary Search Tree  
 [110](110). Balanced Binary Tree  
+[111](111). Minimum Depth of Binary Tree  
 [112](112). Path Sum  
 [118](118). Pascal's Triangle  
 [119](119). Pascal's Triangle II  
