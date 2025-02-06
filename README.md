@@ -30,6 +30,7 @@ Solutions to problems from leetcode.com.
 [66](66). Plus One  
 [67](67). Add Binary  
 [69](69). Sqrt(x)  
+[70](70). Climbing Stairs  
 [80](80). Remove Duplicates from Sorted Array II  
 [83](83). Remove Duplicates from Sorted List  
 [88](88). Merge Sorted Array  
