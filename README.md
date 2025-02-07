@@ -59,6 +59,7 @@ Solutions to problems from leetcode.com.
 [172](172). Factorial Trailing Zeroes  
 [189](189). Rotate Array  
 [190](190). Reverse Bits  
+[191](191). Number of 1 Bits  
 [198](198). House Robber  
 [199](199). Binary Tree Right Side View  
 [200](200). Number of Islands  
