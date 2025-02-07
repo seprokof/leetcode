@@ -137,3 +137,4 @@ Solutions to problems from leetcode.com.
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
 [3151](3151). Special Array I  
 [3152](3152). Special Array II  
+[3160](3160). Find the Number of Distinct Colors Among the Balls  
