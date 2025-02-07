@@ -55,6 +55,7 @@ Solutions to problems from leetcode.com.
 [162](162). Find Peak Element  
 [168](168). Excel Sheet Column Title  
 [169](169). Majority Element  
+[171](171). Excel Sheet Column Number  
 [172](172). Factorial Trailing Zeroes  
 [189](189). Rotate Array  
 [198](198). House Robber  
