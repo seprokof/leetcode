@@ -58,6 +58,7 @@ Solutions to problems from leetcode.com.
 [171](171). Excel Sheet Column Number  
 [172](172). Factorial Trailing Zeroes  
 [189](189). Rotate Array  
+[190](190). Reverse Bits  
 [198](198). House Robber  
 [199](199). Binary Tree Right Side View  
 [200](200). Number of Islands  
