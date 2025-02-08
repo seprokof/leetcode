@@ -69,6 +69,7 @@ Solutions to problems from leetcode.com.
 [206](206). Reverse Linked List  
 [208](208). Implement Trie (Prefix Tree)  
 [215](215). Kth Largest Element in an Array  
+[217](217). Contains Duplicate  
 [219](219). Contains Duplicate II  
 [222](222). Count Complete Tree Nodes  
 [236](236). Lowest Common Ancestor of a Binary Tree  
