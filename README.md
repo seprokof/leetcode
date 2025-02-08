@@ -73,6 +73,7 @@ Solutions to problems from leetcode.com.
 [219](219). Contains Duplicate II  
 [222](222). Count Complete Tree Nodes  
 [225](225). Implement Stack using Queues  
+[231](231). Power of Two  
 [236](236). Lowest Common Ancestor of a Binary Tree  
 [238](238). Product of Array Except Self  
 [242](242). Valid Anagram  
