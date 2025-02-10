@@ -79,6 +79,7 @@ Solutions to problems from leetcode.com.
 [236](236). Lowest Common Ancestor of a Binary Tree  
 [238](238). Product of Array Except Self  
 [242](242). Valid Anagram  
+[257](257). Binary Tree Paths  
 [283](283). Move Zeroes  
 [290](290). Word Pattern  
 [328](328). Odd Even Linked List  
