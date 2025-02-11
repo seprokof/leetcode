@@ -135,6 +135,7 @@ Solutions to problems from leetcode.com.
 [1768](1768). Merge Strings Alternately  
 [1790](1790). Check if One String Swap Can Make Strings Equal  
 [1800](1800). Maximum Ascending Subarray Sum  
+[1910](1910). Remove All Occurrences of a Substring  
 [1926](1926). Nearest Exit from Entrance in Maze  
 [1971](1971). Find if Path Exists in Graph  
 [2095](2095). Delete the Middle Node of a Linked List  
