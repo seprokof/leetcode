@@ -85,6 +85,7 @@ Solutions to problems from leetcode.com.
 [258](258). Add Digits  
 [263](263). Ugly Number  
 [268](268). Missing Number  
+[278](278). First Bad Version  
 [283](283). Move Zeroes  
 [290](290). Word Pattern  
 [328](328). Odd Even Linked List  
