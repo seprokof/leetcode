@@ -144,6 +144,7 @@ Solutions to problems from leetcode.com.
 [2215](2215). Find the Difference of Two Arrays  
 [2300](2300). Successful Pairs of Spells and Potions  
 [2336](2336). Smallest Number in Infinite Set  
+[2342](2342). Max Sum of a Pair With Equal Sum of Digits  
 [2349](2349). Design a Number Container System  
 [2352](2352). Equal Row and Column Pairs  
 [2364](2364). Count Number of Bad Pairs  
