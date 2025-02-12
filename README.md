@@ -52,6 +52,7 @@ Solutions to problems from leetcode.com.
 [144](144). Binary Tree Preorder Traversal  
 [145](145). Binary Tree Postorder Traversal  
 [151](151). Reverse Words in a String  
+[160](160). Intersection of Two Linked Lists  
 [162](162). Find Peak Element  
 [168](168). Excel Sheet Column Title  
 [169](169). Majority Element  
