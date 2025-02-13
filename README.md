@@ -93,6 +93,7 @@ Solutions to problems from leetcode.com.
 [328](328). Odd Even Linked List  
 [334](334). Increasing Triplet Subsequence  
 [338](338). Counting Bits  
+[342](342). Power of Four  
 [344](344). Reverse String  
 [345](345). Reverse Vowels of a String  
 [349](349). Intersection of Two Arrays  
