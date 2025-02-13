@@ -102,6 +102,7 @@ Solutions to problems from leetcode.com.
 [374](374). Guess Number Higher or Lower  
 [383](383). Ransom Note  
 [387](387). First Unique Character in a String  
+[389](389). Find the Difference  
 [392](392). Is Subsequence  
 [394](394). Decode String  
 [399](399). Evaluate Division  
