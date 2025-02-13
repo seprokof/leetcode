@@ -98,6 +98,7 @@ Solutions to problems from leetcode.com.
 [345](345). Reverse Vowels of a String  
 [349](349). Intersection of Two Arrays  
 [350](350). Intersection of Two Arrays II  
+[367](367). Valid Perfect Square  
 [374](374). Guess Number Higher or Lower  
 [383](383). Ransom Note  
 [392](392). Is Subsequence  
