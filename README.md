@@ -95,6 +95,7 @@ Solutions to problems from leetcode.com.
 [338](338). Counting Bits  
 [344](344). Reverse String  
 [345](345). Reverse Vowels of a String  
+[349](349). Intersection of Two Arrays  
 [374](374). Guess Number Higher or Lower  
 [383](383). Ransom Note  
 [392](392). Is Subsequence  
