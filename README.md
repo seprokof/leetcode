@@ -107,6 +107,7 @@ Solutions to problems from leetcode.com.
 [394](394). Decode String  
 [399](399). Evaluate Division  
 [404](404). Sum of Left Leaves  
+[412](412). Fizz Buzz  
 [424](424). Longest Repeating Character Replacement  
 [435](435). Non-overlapping Intervals  
 [437](437). Path Sum III  
