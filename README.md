@@ -137,6 +137,7 @@ Solutions to problems from leetcode.com.
 [1161](1161). Maximum Level Sum of a Binary Tree  
 [1207](1207). Unique Number of Occurrences  
 [1268](1268). Search Suggestions System  
+[1352](1352). Product of the Last K Numbers  
 [1372](1372). Longest ZigZag Path in a Binary Tree  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1448](1448). Count Good Nodes in Binary Tree  
