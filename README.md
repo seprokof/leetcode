@@ -111,6 +111,7 @@ Solutions to problems from leetcode.com.
 [414](414). Third Maximum Number  
 [415](415). Add Strings  
 [424](424). Longest Repeating Character Replacement  
+[434](434). Number of Segments in a String  
 [435](435). Non-overlapping Intervals  
 [437](437). Path Sum III  
 [443](443). String Compression  
