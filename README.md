@@ -136,6 +136,7 @@ Solutions to problems from leetcode.com.
 [994](994). Rotting Oranges  
 [1004](1004). Max Consecutive Ones III  
 [1071](1071). Greatest Common Divisor of Strings  
+[1079](1079). Letter Tile Possibilities  
 [1137](1137). N-th Tribonacci Number  
 [1161](1161). Maximum Level Sum of a Binary Tree  
 [1207](1207). Unique Number of Occurrences  
