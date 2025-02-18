@@ -172,6 +172,7 @@ Solutions to problems from leetcode.com.
 [2349](2349). Design a Number Container System  
 [2352](2352). Equal Row and Column Pairs  
 [2364](2364). Count Number of Bad Pairs  
+[2375](2375). Construct Smallest Number From DI String  
 [2390](2390). Removing Stars From a String  
 [2462](2462). Total Cost to Hire K Workers  
 [2542](2542). Maximum Subsequence Score  
