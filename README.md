@@ -140,6 +140,7 @@ Solutions to problems from leetcode.com.
 [841](841). Keys and Rooms  
 [872](872). Leaf-Similar Trees  
 [875](875). Koko Eating Bananas  
+[889](889). Construct Binary Tree from Preorder and Postorder Traversal  
 [901](901). Online Stock Span  
 [933](933). Number of Recent Calls  
 [994](994). Rotting Oranges  
