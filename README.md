@@ -127,6 +127,7 @@ Solutions to problems from leetcode.com.
 [482](482). License Key Formatting  
 [485](485). Max Consecutive Ones  
 [492](492). Construct the Rectangle  
+[495](495). Teemo Attacking  
 [547](547). Number of Provinces  
 [605](605). Can Place Flowers  
 [643](643). Maximum Average Subarray I  
