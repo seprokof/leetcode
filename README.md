@@ -167,6 +167,7 @@ Solutions to problems from leetcode.com.
 [1679](1679). Max Number of K-Sum Pairs  
 [1726](1726). Tuple with Same Product  
 [1732](1732). Find the Highest Altitude  
+[1749](1749). Maximum Absolute Sum of Any Subarray  
 [1752](1752). Check if Array Is Sorted and Rotated  
 [1768](1768). Merge Strings Alternately  
 [1790](1790). Check if One String Swap Can Make Strings Equal  
