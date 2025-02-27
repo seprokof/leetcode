@@ -130,6 +130,7 @@ Solutions to problems from leetcode.com.
 [495](495). Teemo Attacking  
 [496](496). Next Greater Element I  
 [500](500). Keyboard Row  
+[501](501). Find Mode in Binary Search Tree  
 [547](547). Number of Provinces  
 [605](605). Can Place Flowers  
 [643](643). Maximum Average Subarray I  
