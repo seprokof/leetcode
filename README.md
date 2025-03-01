@@ -193,6 +193,7 @@ Solutions to problems from leetcode.com.
 [2364](2364). Count Number of Bad Pairs  
 [2375](2375). Construct Smallest Number From DI String  
 [2390](2390). Removing Stars From a String  
+[2460](2460). Apply Operations to an Array  
 [2462](2462). Total Cost to Hire K Workers  
 [2542](2542). Maximum Subsequence Score  
 [2698](2698). Find the Punishment Number of an Integer  
