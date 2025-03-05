@@ -199,6 +199,7 @@ Solutions to problems from leetcode.com.
 [2462](2462). Total Cost to Hire K Workers  
 [2542](2542). Maximum Subsequence Score  
 [2570](2570). Merge Two 2D Arrays by Summing Values  
+[2579](2579). Count Total Number of Colored Cells  
 [2698](2698). Find the Punishment Number of an Integer  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
