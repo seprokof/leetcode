@@ -194,6 +194,7 @@ Solutions to problems from leetcode.com.
 [2352](2352). Equal Row and Column Pairs  
 [2364](2364). Count Number of Bad Pairs  
 [2375](2375). Construct Smallest Number From DI String  
+[2379](2379). Minimum Recolors to Get K Consecutive Black Blocks  
 [2390](2390). Removing Stars From a String  
 [2460](2460). Apply Operations to an Array  
 [2462](2462). Total Cost to Hire K Workers  
