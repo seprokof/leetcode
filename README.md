@@ -190,6 +190,7 @@ Solutions to problems from leetcode.com.
 [2161](2161). Partition Array According to Given Pivot  
 [2208](2208). Minimum Operations to Halve Array Sum  
 [2215](2215). Find the Difference of Two Arrays  
+[2226](2226). Maximum Candies Allocated to K Children  
 [2300](2300). Successful Pairs of Spells and Potions  
 [2336](2336). Smallest Number in Infinite Set  
 [2342](2342). Max Sum of a Pair With Equal Sum of Digits  
