@@ -205,6 +205,7 @@ Solutions to problems from leetcode.com.
 [2523](2523). Closest Prime Numbers in Range  
 [2529](2529). Maximum Count of Positive Integer and Negative Integer  
 [2542](2542). Maximum Subsequence Score  
+[2560](2560). House Robber IV  
 [2570](2570). Merge Two 2D Arrays by Summing Values  
 [2579](2579). Count Total Number of Colored Cells  
 [2698](2698). Find the Punishment Number of an Integer  
