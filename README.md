@@ -188,6 +188,7 @@ Solutions to problems from leetcode.com.
 [2109](2109). Adding Spaces to a String  
 [2130](2130). Maximum Twin Sum of a Linked List  
 [2161](2161). Partition Array According to Given Pivot  
+[2206](2206). Divide Array Into Equal Pairs  
 [2208](2208). Minimum Operations to Halve Array Sum  
 [2215](2215). Find the Difference of Two Arrays  
 [2226](2226). Maximum Candies Allocated to K Children  
