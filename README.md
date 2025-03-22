@@ -213,6 +213,7 @@ Solutions to problems from leetcode.com.
 [2570](2570). Merge Two 2D Arrays by Summing Values  
 [2579](2579). Count Total Number of Colored Cells  
 [2594](2594). Minimum Time to Repair Cars  
+[2685](2685). Count the Number of Complete Components  
 [2698](2698). Find the Punishment Number of an Integer  
 [2965](2965). Find Missing and Repeated Values  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
