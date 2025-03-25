@@ -226,3 +226,4 @@ Solutions to problems from leetcode.com.
 [3174](3174). Clear Digits  
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
 [3208](3208). Alternating Groups II  
+[3394](3394). Check if Grid can be Cut into Sections  
