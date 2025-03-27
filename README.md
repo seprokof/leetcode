@@ -217,6 +217,7 @@ Solutions to problems from leetcode.com.
 [2594](2594). Minimum Time to Repair Cars  
 [2685](2685). Count the Number of Complete Components  
 [2698](2698). Find the Punishment Number of an Integer  
+[2780](2780). Minimum Index of a Valid Split  
 [2965](2965). Find Missing and Repeated Values  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
