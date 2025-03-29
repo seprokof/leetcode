@@ -135,6 +135,7 @@ Solutions to problems from leetcode.com.
 [506](506). Relative Ranks  
 [507](507). Perfect Number  
 [509](509). Fibonacci Number  
+[520](520). Detect Capital  
 [547](547). Number of Provinces  
 [605](605). Can Place Flowers  
 [643](643). Maximum Average Subarray I  
