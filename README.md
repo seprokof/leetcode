@@ -223,6 +223,7 @@ Solutions to problems from leetcode.com.
 [2503](2503). Maximum Number of Points From Grid Queries  
 [2523](2523). Closest Prime Numbers in Range  
 [2529](2529). Maximum Count of Positive Integer and Negative Integer  
+[2537](2537). Count the Number of Good Subarrays  
 [2542](2542). Maximum Subsequence Score  
 [2551](2551). Put Marbles in Bags  
 [2560](2560). House Robber IV  
