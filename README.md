@@ -205,6 +205,7 @@ Solutions to problems from leetcode.com.
 [2115](2115). Find All Possible Recipes from Given Supplies  
 [2130](2130). Maximum Twin Sum of a Linked List  
 [2140](2140). Solving Questions With Brainpower  
+[2145](2145). Count the Hidden Sequences  
 [2161](2161). Partition Array According to Given Pivot  
 [2176](2176). Count Equal and Divisible Pairs in an Array  
 [2206](2206). Divide Array Into Equal Pairs  
