@@ -177,6 +177,7 @@ Solutions to problems from leetcode.com.
 [1352](1352). Product of the Last K Numbers  
 [1358](1358). Number of Substrings Containing All Three Characters  
 [1372](1372). Longest ZigZag Path in a Binary Tree  
+[1399](1399). Count Largest Group  
 [1415](1415). The k-th Lexicographical String of All Happy Strings of Length n  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1448](1448). Count Good Nodes in Binary Tree  
