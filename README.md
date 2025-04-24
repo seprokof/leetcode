@@ -23,6 +23,7 @@ Solutions to problems from leetcode.com.
 [33](33). Search in Rotated Sorted Array  
 [34](34). Find First and Last Position of Element in Sorted Array  
 [35](35). Search Insert Position  
+[38](38). Count and Say  
 [50](50). Pow(x, n)  
 [55](55). Jump Game  
 [56](56). Merge Intervals  
@@ -142,6 +143,7 @@ Solutions to problems from leetcode.com.
 [541](541). Reverse String II  
 [547](547). Number of Provinces  
 [557](557). Reverse Words in a String III  
+[561](561). Array Partition  
 [605](605). Can Place Flowers  
 [643](643). Maximum Average Subarray I  
 [649](649). Dota2 Senate  
@@ -175,6 +177,7 @@ Solutions to problems from leetcode.com.
 [1352](1352). Product of the Last K Numbers  
 [1358](1358). Number of Substrings Containing All Three Characters  
 [1372](1372). Longest ZigZag Path in a Binary Tree  
+[1399](1399). Count Largest Group  
 [1415](1415). The k-th Lexicographical String of All Happy Strings of Length n  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1448](1448). Count Good Nodes in Binary Tree  
@@ -204,6 +207,7 @@ Solutions to problems from leetcode.com.
 [2115](2115). Find All Possible Recipes from Given Supplies  
 [2130](2130). Maximum Twin Sum of a Linked List  
 [2140](2140). Solving Questions With Brainpower  
+[2145](2145). Count the Hidden Sequences  
 [2161](2161). Partition Array According to Given Pivot  
 [2176](2176). Count Equal and Divisible Pairs in an Array  
 [2206](2206). Divide Array Into Equal Pairs  
