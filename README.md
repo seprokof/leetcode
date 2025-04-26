@@ -144,6 +144,7 @@ Solutions to problems from leetcode.com.
 [547](547). Number of Provinces  
 [557](557). Reverse Words in a String III  
 [561](561). Array Partition  
+[575](575). Distribute Candies  
 [605](605). Can Place Flowers  
 [643](643). Maximum Average Subarray I  
 [649](649). Dota2 Senate  
