@@ -216,6 +216,7 @@ Solutions to problems from leetcode.com.
 [2215](2215). Find the Difference of Two Arrays  
 [2226](2226). Maximum Candies Allocated to K Children  
 [2300](2300). Successful Pairs of Spells and Potions  
+[2302](2302). Count Subarrays With Score Less Than K  
 [2336](2336). Smallest Number in Infinite Set  
 [2342](2342). Max Sum of a Pair With Equal Sum of Digits  
 [2349](2349). Design a Number Container System  
@@ -256,5 +257,6 @@ Solutions to problems from leetcode.com.
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
 [3208](3208). Alternating Groups II  
 [3375](3375). Minimum Operations to Make Array Values Equal to K  
+[3392](3392). Count Subarrays of Length Three With a Condition  
 [3394](3394). Check if Grid can be Cut into Sections  
 [3396](3396). Minimum Number of Operations to Make Elements in Array Distinct  
