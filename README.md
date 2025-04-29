@@ -246,6 +246,7 @@ Solutions to problems from leetcode.com.
 [2843](2843). Count Symmetric Integers  
 [2873](2873). Maximum Value of an Ordered Triplet I  
 [2874](2874). Maximum Value of an Ordered Triplet II  
+[2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
 [2965](2965). Find Missing and Repeated Values  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
