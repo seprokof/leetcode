@@ -204,6 +204,7 @@ Solutions to problems from leetcode.com.
 [1800](1800). Maximum Ascending Subarray Sum  
 [1863](1863). Sum of All Subset XOR Totals  
 [1910](1910). Remove All Occurrences of a Substring  
+[1920](1920). Build Array from Permutation  
 [1922](1922). Count Good Numbers  
 [1926](1926). Nearest Exit from Entrance in Maze  
 [1971](1971). Find if Path Exists in Graph  
