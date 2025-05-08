@@ -265,6 +265,7 @@ Solutions to problems from leetcode.com.
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
 [3208](3208). Alternating Groups II  
 [3341](3341). Find Minimum Time to Reach Last Room I  
+[3342](3342). Find Minimum Time to Reach Last Room II  
 [3375](3375). Minimum Operations to Make Array Values Equal to K  
 [3392](3392). Count Subarrays of Length Three With a Condition  
 [3394](3394). Check if Grid can be Cut into Sections  
