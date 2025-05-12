@@ -212,6 +212,7 @@ Solutions to problems from leetcode.com.
 [1971](1971). Find if Path Exists in Graph  
 [1980](1980). Find Unique Binary String  
 [2033](2033). Minimum Operations to Make a Uni-Value Grid  
+[2094](2094). Finding 3-Digit Even Numbers  
 [2095](2095). Delete the Middle Node of a Linked List  
 [2109](2109). Adding Spaces to a String  
 [2115](2115). Find All Possible Recipes from Given Supplies  
