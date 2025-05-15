@@ -257,6 +257,7 @@ Solutions to problems from leetcode.com.
 [2843](2843). Count Symmetric Integers  
 [2873](2873). Maximum Value of an Ordered Triplet I  
 [2874](2874). Maximum Value of an Ordered Triplet II  
+[2900](2900). Longest Unequal Adjacent Groups Subsequence I  
 [2918](2918). Minimum Equal Sum of Two Arrays After Replacing Zeros  
 [2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
 [2965](2965). Find Missing and Repeated Values  
