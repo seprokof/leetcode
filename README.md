@@ -264,6 +264,7 @@ Solutions to problems from leetcode.com.
 [2918](2918). Minimum Equal Sum of Two Arrays After Replacing Zeros  
 [2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
 [2965](2965). Find Missing and Repeated Values  
+[3024](3024). Type of Triangle  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
 [3151](3151). Special Array I  
