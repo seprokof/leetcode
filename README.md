@@ -32,6 +32,7 @@ Solutions to problems from leetcode.com.
 [67](67). Add Binary  
 [69](69). Sqrt(x)  
 [70](70). Climbing Stairs  
+[73](73). Set Matrix Zeroes  
 [75](75). Sort Colors  
 [80](80). Remove Duplicates from Sorted Array II  
 [83](83). Remove Duplicates from Sorted List  
