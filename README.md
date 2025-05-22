@@ -161,6 +161,7 @@ Solutions to problems from leetcode.com.
 [739](739). Daily Temperatures  
 [746](746). Min Cost Climbing Stairs  
 [763](763). Partition Labels  
+[771](771). Jewels and Stones  
 [781](781). Rabbits in Forest  
 [790](790). Domino and Tromino Tiling  
 [838](838). Push Dominoes  
