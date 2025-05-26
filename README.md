@@ -150,6 +150,7 @@ Solutions to problems from leetcode.com.
 [594](594). Longest Harmonious Subsequence  
 [598](598). Range Addition II  
 [605](605). Can Place Flowers  
+[628](628). Maximum Product of Three Numbers  
 [643](643). Maximum Average Subarray I  
 [645](645). Set Mismatch  
 [649](649). Dota2 Senate  
