@@ -264,6 +264,7 @@ Solutions to problems from leetcode.com.
 [2843](2843). Count Symmetric Integers  
 [2873](2873). Maximum Value of an Ordered Triplet I  
 [2874](2874). Maximum Value of an Ordered Triplet II  
+[2894](2894). Divisible and Non-divisible Sums Difference  
 [2900](2900). Longest Unequal Adjacent Groups Subsequence I  
 [2901](2901). Longest Unequal Adjacent Groups Subsequence II  
 [2918](2918). Minimum Equal Sum of Two Arrays After Replacing Zeros  
