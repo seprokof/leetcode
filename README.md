@@ -166,6 +166,7 @@ Solutions to problems from leetcode.com.
 [771](771). Jewels and Stones  
 [781](781). Rabbits in Forest  
 [790](790). Domino and Tromino Tiling  
+[804](804). Unique Morse Code Words  
 [838](838). Push Dominoes  
 [841](841). Keys and Rooms  
 [865](865). Smallest Subtree with all the Deepest Nodes  
