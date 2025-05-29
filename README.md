@@ -173,6 +173,7 @@ Solutions to problems from leetcode.com.
 [872](872). Leaf-Similar Trees  
 [873](873). Length of Longest Fibonacci Subsequence  
 [875](875). Koko Eating Bananas  
+[876](876). Middle of the Linked List  
 [889](889). Construct Binary Tree from Preorder and Postorder Traversal  
 [901](901). Online Stock Span  
 [933](933). Number of Recent Calls  
