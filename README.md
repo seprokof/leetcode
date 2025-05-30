@@ -241,6 +241,7 @@ Solutions to problems from leetcode.com.
 [2342](2342). Max Sum of a Pair With Equal Sum of Digits  
 [2349](2349). Design a Number Container System  
 [2352](2352). Equal Row and Column Pairs  
+[2359](2359). Find Closest Node to Given Two Nodes  
 [2364](2364). Count Number of Bad Pairs  
 [2375](2375). Construct Smallest Number From DI String  
 [2379](2379). Minimum Recolors to Get K Consecutive Black Blocks  
