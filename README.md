@@ -50,6 +50,7 @@ Solutions to problems from leetcode.com.
 [119](119). Pascal's Triangle II  
 [121](121). Best Time to Buy and Sell Stock  
 [125](125). Valid Palindrome  
+[135](135). Candy  
 [136](136). Single Number  
 [141](141). Linked List Cycle  
 [144](144). Binary Tree Preorder Traversal  
