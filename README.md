@@ -193,6 +193,7 @@ Solutions to problems from leetcode.com.
 [1261](1261). Find Elements in a Contaminated Binary Tree  
 [1295](1295). Find Numbers with Even Number of Digits  
 [1268](1268). Search Suggestions System  
+[1298](1298). Maximum Candies You Can Get from Boxes  
 [1352](1352). Product of the Last K Numbers  
 [1358](1358). Number of Substrings Containing All Three Characters  
 [1372](1372). Longest ZigZag Path in a Binary Tree  
