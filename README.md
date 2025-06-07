@@ -287,6 +287,7 @@ Solutions to problems from leetcode.com.
 [3152](3152). Special Array II  
 [3160](3160). Find the Number of Distinct Colors Among the Balls  
 [3169](3169). Count Days Without Meetings  
+[3170](3170). Lexicographically Minimum String After Removing Stars  
 [3174](3174). Clear Digits  
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
 [3208](3208). Alternating Groups II  
