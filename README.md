@@ -106,6 +106,7 @@ Solutions to problems from leetcode.com.
 [368](368). Largest Divisible Subset  
 [374](374). Guess Number Higher or Lower  
 [383](383). Ransom Note  
+[386](386). Lexicographical Numbers  
 [387](387). First Unique Character in a String  
 [389](389). Find the Difference  
 [392](392). Is Subsequence  
