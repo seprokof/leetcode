@@ -183,6 +183,7 @@ Solutions to problems from leetcode.com.
 [901](901). Online Stock Span  
 [909](909). Snakes and Ladders  
 [933](933). Number of Recent Calls  
+[942](942). DI String Match  
 [994](994). Rotting Oranges  
 [1004](1004). Max Consecutive Ones III  
 [1007](1007). Minimum Domino Rotations For Equal Row  
