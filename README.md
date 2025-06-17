@@ -144,6 +144,7 @@ Solutions to problems from leetcode.com.
 [509](509). Fibonacci Number  
 [520](520). Detect Capital  
 [521](521). Longest Uncommon Subsequence I  
+[530](530). Minimum Absolute Difference in BST  
 [541](541). Reverse String II  
 [547](547). Number of Provinces  
 [557](557). Reverse Words in a String III  
