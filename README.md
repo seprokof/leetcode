@@ -288,6 +288,7 @@ Solutions to problems from leetcode.com.
 [2942](2942). Find Words Containing Character  
 [2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
 [2965](2965). Find Missing and Repeated Values  
+[2966](2966). Divide Array Into Arrays With Max Difference  
 [3024](3024). Type of Triangle  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
