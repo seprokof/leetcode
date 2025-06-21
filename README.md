@@ -292,6 +292,7 @@ Solutions to problems from leetcode.com.
 [2966](2966). Divide Array Into Arrays With Max Difference  
 [3024](3024). Type of Triangle  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
+[3085](3085). Minimum Deletions to Make String K-Special  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
 [3151](3151). Special Array I  
 [3152](3152). Special Array II  
