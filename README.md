@@ -238,6 +238,7 @@ Solutions to problems from leetcode.com.
 [2115](2115). Find All Possible Recipes from Given Supplies  
 [2130](2130). Maximum Twin Sum of a Linked List  
 [2131](2131). Longest Palindrome by Concatenating Two Letter Words  
+[2138](2138). Divide a String Into Groups of Size k  
 [2140](2140). Solving Questions With Brainpower  
 [2145](2145). Count the Hidden Sequences  
 [2161](2161). Partition Array According to Given Pivot  
