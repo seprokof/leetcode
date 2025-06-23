@@ -232,6 +232,7 @@ Solutions to problems from leetcode.com.
 [1980](1980). Find Unique Binary String  
 [2016](2016). Maximum Difference Between Increasing Elements  
 [2033](2033). Minimum Operations to Make a Uni-Value Grid  
+[2081](2081). Sum of k-Mirror Numbers  
 [2094](2094). Finding 3-Digit Even Numbers  
 [2095](2095). Delete the Middle Node of a Linked List  
 [2109](2109). Adding Spaces to a String  
