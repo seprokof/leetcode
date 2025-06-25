@@ -34,7 +34,7 @@ func makeTree(values []string) *TreeNode {
 	index := 1
 	for index < len(values) {
 		currentLevel := make([]*TreeNode, 0, len(prevLevel)*2)
-		for i := 0; i < len(prevLevel); i++ {
+		for i := 0; i < len(prevLevel) && index < len(values); i++ {
 			leftNode := convertNode(values[index])
 			if leftNode != nil {
 				prevLevel[i].Left = leftNode
