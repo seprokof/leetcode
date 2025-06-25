@@ -146,6 +146,7 @@ Solutions to problems from leetcode.com.
 [521](521). Longest Uncommon Subsequence I  
 [530](530). Minimum Absolute Difference in BST  
 [541](541). Reverse String II  
+[543](543). Diameter of Binary Tree  
 [547](547). Number of Provinces  
 [557](557). Reverse Words in a String III  
 [561](561). Array Partition  
