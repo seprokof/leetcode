@@ -213,6 +213,7 @@ Solutions to problems from leetcode.com.
 [1456](1456). Maximum Number of Vowels in a Substring of Given Length  
 [1466](1466). Reorder Routes to Make All Paths Lead to the City Zero  
 [1493](1493). Longest Subarray of 1's After Deleting One Element  
+[1498](1498). Number of Subsequences That Satisfy the Given Sum Condition  
 [1534](1534). Count Good Triplets  
 [1550](1550). Three Consecutive Odds  
 [1657](1657). Determine if Two Strings Are Close  
