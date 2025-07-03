@@ -312,6 +312,7 @@ Solutions to problems from leetcode.com.
 [3174](3174). Clear Digits  
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
 [3208](3208). Alternating Groups II  
+[3304](3304). Find the K-th Character in String Game I  
 [3330](3330). Find the Original Typed String I  
 [3335](3335). Total Characters in String After Transformations I  
 [3341](3341). Find Minimum Time to Reach Last Room I  
