@@ -190,6 +190,7 @@ Solutions to problems from leetcode.com.
 [994](994). Rotting Oranges  
 [1004](1004). Max Consecutive Ones III  
 [1007](1007). Minimum Domino Rotations For Equal Row  
+[1047](1047). Remove All Adjacent Duplicates In String  
 [1051](1051). Height Checker  
 [1071](1071). Greatest Common Divisor of Strings  
 [1079](1079). Letter Tile Possibilities  
