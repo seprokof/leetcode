@@ -231,6 +231,7 @@ Solutions to problems from leetcode.com.
 [1790](1790). Check if One String Swap Can Make Strings Equal  
 [1800](1800). Maximum Ascending Subarray Sum  
 [1863](1863). Sum of All Subset XOR Totals  
+[1865](1865). Finding Pairs With a Certain Sum  
 [1910](1910). Remove All Occurrences of a Substring  
 [1920](1920). Build Array from Permutation  
 [1922](1922). Count Good Numbers  
