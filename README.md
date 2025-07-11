@@ -207,6 +207,7 @@ Solutions to problems from leetcode.com.
 [1268](1268). Search Suggestions System  
 [1298](1298). Maximum Candies You Can Get from Boxes  
 [1309](1309). Decrypt String from Alphabet to Integer Mapping  
+[1323](1323). Maximum 69 Number  
 [1352](1352). Product of the Last K Numbers  
 [1353](1353). Maximum Number of Events That Can Be Attended  
 [1358](1358). Number of Substrings Containing All Three Characters  
