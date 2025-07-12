@@ -171,6 +171,7 @@ Solutions to problems from leetcode.com.
 [763](763). Partition Labels  
 [771](771). Jewels and Stones  
 [781](781). Rabbits in Forest  
+[783](783). Minimum Distance Between BST Nodes  
 [790](790). Domino and Tromino Tiling  
 [804](804). Unique Morse Code Words  
 [821](821). Shortest Distance to a Character  
