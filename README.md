@@ -277,6 +277,7 @@ Solutions to problems from leetcode.com.
 [2379](2379). Minimum Recolors to Get K Consecutive Black Blocks  
 [2390](2390). Removing Stars From a String  
 [2401](2401). Longest Nice Subarray  
+[2410](2410). Maximum Matching of Players With Trainers  
 [2460](2460). Apply Operations to an Array  
 [2462](2462). Total Cost to Hire K Workers  
 [2503](2503). Maximum Number of Points From Grid Queries  
