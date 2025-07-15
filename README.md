@@ -314,6 +314,7 @@ Solutions to problems from leetcode.com.
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3085](3085). Minimum Deletions to Make String K-Special  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
+[3136](3136). Valid Word  
 [3151](3151). Special Array I  
 [3152](3152). Special Array II  
 [3160](3160). Find the Number of Distinct Colors Among the Balls  
