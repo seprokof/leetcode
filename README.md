@@ -322,6 +322,7 @@ Solutions to problems from leetcode.com.
 [3170](3170). Lexicographically Minimum String After Removing Stars  
 [3174](3174). Clear Digits  
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
+[3201](3201). Find the Maximum Length of Valid Subsequence I  
 [3208](3208). Alternating Groups II  
 [3304](3304). Find the K-th Character in String Game I  
 [3330](3330). Find the Original Typed String I  
