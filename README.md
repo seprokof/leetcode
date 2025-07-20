@@ -196,6 +196,7 @@ Solutions to problems from leetcode.com.
 [1051](1051). Height Checker  
 [1071](1071). Greatest Common Divisor of Strings  
 [1079](1079). Letter Tile Possibilities  
+[1089](1089). Duplicate Zeros  
 [1123](1123). Lowest Common Ancestor of Deepest Leaves  
 [1128](1128). Number of Equivalent Domino Pairs  
 [1137](1137). N-th Tribonacci Number  
