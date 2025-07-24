@@ -212,6 +212,7 @@ Solutions to problems from leetcode.com.
 [1290](1290). Convert Binary Number in a Linked List to Integer  
 [1298](1298). Maximum Candies You Can Get from Boxes  
 [1309](1309). Decrypt String from Alphabet to Integer Mapping  
+[1313](1313). Decompress Run-Length Encoded List  
 [1323](1323). Maximum 69 Number  
 [1352](1352). Product of the Last K Numbers  
 [1353](1353). Maximum Number of Events That Can Be Attended  
