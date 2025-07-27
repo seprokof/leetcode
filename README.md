@@ -271,6 +271,7 @@ Solutions to problems from leetcode.com.
 [2200](2200). Find All K-Distant Indices in an Array  
 [2206](2206). Divide Array Into Equal Pairs  
 [2208](2208). Minimum Operations to Halve Array Sum  
+[2210](2210). Count Hills and Valleys in an Array  
 [2215](2215). Find the Difference of Two Arrays  
 [2226](2226). Maximum Candies Allocated to K Children  
 [2294](2294). Partition Array Such That Maximum Difference Is K  
