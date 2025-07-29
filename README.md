@@ -255,6 +255,7 @@ Solutions to problems from leetcode.com.
 [1971](1971). Find if Path Exists in Graph  
 [1980](1980). Find Unique Binary String  
 [2016](2016). Maximum Difference Between Increasing Elements  
+[2032](2032). Two Out of Three  
 [2033](2033). Minimum Operations to Make a Uni-Value Grid  
 [2081](2081). Sum of k-Mirror Numbers  
 [2094](2094). Finding 3-Digit Even Numbers  
