@@ -190,6 +190,7 @@ Solutions to problems from leetcode.com.
 [933](933). Number of Recent Calls  
 [942](942). DI String Match  
 [994](994). Rotting Oranges  
+[1002](1002). Find Common Characters  
 [1004](1004). Max Consecutive Ones III  
 [1007](1007). Minimum Domino Rotations For Equal Row  
 [1021](1021). Remove Outermost Parentheses  
