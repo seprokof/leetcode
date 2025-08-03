@@ -173,6 +173,7 @@ Solutions to problems from leetcode.com.
 [781](781). Rabbits in Forest  
 [783](783). Minimum Distance Between BST Nodes  
 [790](790). Domino and Tromino Tiling  
+[796](796). Rotate String  
 [804](804). Unique Morse Code Words  
 [821](821). Shortest Distance to a Character  
 [838](838). Push Dominoes  
