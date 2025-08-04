@@ -187,6 +187,7 @@ Solutions to problems from leetcode.com.
 [889](889). Construct Binary Tree from Preorder and Postorder Traversal  
 [898](898). Bitwise ORs of Subarrays  
 [901](901). Online Stock Span  
+[904](904). Fruit Into Baskets  
 [909](909). Snakes and Ladders  
 [933](933). Number of Recent Calls  
 [942](942). DI String Match  
