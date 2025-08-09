@@ -237,6 +237,7 @@ Solutions to problems from leetcode.com.
 [1498](1498). Number of Subsequences That Satisfy the Given Sum Condition  
 [1534](1534). Count Good Triplets  
 [1550](1550). Three Consecutive Odds  
+[1614](1614). Maximum Nesting Depth of the Parentheses  
 [1636](1636). Sort Array by Increasing Frequency  
 [1652](1652). Defuse the Bomb  
 [1657](1657). Determine if Two Strings Are Close  
