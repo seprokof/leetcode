@@ -301,6 +301,7 @@ Solutions to problems from leetcode.com.
 [2401](2401). Longest Nice Subarray  
 [2410](2410). Maximum Matching of Players With Trainers  
 [2419](2419). Longest Subarray With Maximum Bitwise AND  
+[2438](2438). Range Product Queries of Powers  
 [2460](2460). Apply Operations to an Array  
 [2462](2462). Total Cost to Hire K Workers  
 [2503](2503). Maximum Number of Points From Grid Queries  
