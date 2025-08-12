@@ -228,6 +228,7 @@ Solutions to problems from leetcode.com.
 [1372](1372). Longest ZigZag Path in a Binary Tree  
 [1394](1394). Find Lucky Integer in an Array  
 [1399](1399). Count Largest Group  
+[1408](1408). String Matching in an Array  
 [1415](1415). The k-th Lexicographical String of All Happy Strings of Length n  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1432](1432). Max Difference You Can Get From Changing an Integer  
