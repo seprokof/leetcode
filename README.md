@@ -235,6 +235,7 @@ Solutions to problems from leetcode.com.
 [1448](1448). Count Good Nodes in Binary Tree  
 [1456](1456). Maximum Number of Vowels in a Substring of Given Length  
 [1466](1466). Reorder Routes to Make All Paths Lead to the City Zero  
+[1470](1470). Shuffle the Array  
 [1493](1493). Longest Subarray of 1's After Deleting One Element  
 [1498](1498). Number of Subsequences That Satisfy the Given Sum Condition  
 [1534](1534). Count Good Triplets  
