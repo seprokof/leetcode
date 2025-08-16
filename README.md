@@ -368,3 +368,4 @@ Solutions to problems from leetcode.com.
 [3443](3443). Maximum Manhattan Distance After K Changes  
 [3477](3477). Fruits Into Baskets II  
 [3487](3487). Maximum Unique Subarray Sum After Deletion  
+[3492](3492). Maximum Containers on a Ship  
