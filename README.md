@@ -296,6 +296,7 @@ Solutions to problems from leetcode.com.
 [2311](2311). Longest Binary Subsequence Less Than or Equal to K  
 [2336](2336). Smallest Number in Infinite Set  
 [2342](2342). Max Sum of a Pair With Equal Sum of Digits  
+[2348](2348). Number of Zero-Filled Subarrays  
 [2349](2349). Design a Number Container System  
 [2352](2352). Equal Row and Column Pairs  
 [2359](2359). Find Closest Node to Given Two Nodes  
