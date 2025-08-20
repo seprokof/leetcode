@@ -329,6 +329,7 @@ Solutions to problems from leetcode.com.
 [2780](2780). Minimum Index of a Valid Split  
 [2799](2799). Count Complete Subarrays in an Array  
 [2843](2843). Count Symmetric Integers  
+[2848](2848). Points That Intersect With Cars  
 [2873](2873). Maximum Value of an Ordered Triplet I  
 [2874](2874). Maximum Value of an Ordered Triplet II  
 [2894](2894). Divisible and Non-divisible Sums Difference  
