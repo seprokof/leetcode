@@ -256,6 +256,7 @@ Solutions to problems from leetcode.com.
 [1780](1780). Check if Number is a Sum of Powers of Three  
 [1790](1790). Check if One String Swap Can Make Strings Equal  
 [1800](1800). Maximum Ascending Subarray Sum  
+[1822](1822). Sign of the Product of an Array  
 [1863](1863). Sum of All Subset XOR Totals  
 [1865](1865). Finding Pairs With a Certain Sum  
 [1910](1910). Remove All Occurrences of a Substring  
