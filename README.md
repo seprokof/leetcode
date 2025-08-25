@@ -136,6 +136,7 @@ Solutions to problems from leetcode.com.
 [492](492). Construct the Rectangle  
 [495](495). Teemo Attacking  
 [496](496). Next Greater Element I  
+[498](498). Diagonal Traverse  
 [500](500). Keyboard Row  
 [501](501). Find Mode in Binary Search Tree  
 [504](504). Base 7  
