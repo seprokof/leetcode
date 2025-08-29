@@ -346,6 +346,7 @@ Solutions to problems from leetcode.com.
 [2965](2965). Find Missing and Repeated Values  
 [2966](2966). Divide Array Into Arrays With Max Difference  
 [3000](3000). Maximum Area of Longest Diagonal Rectangle  
+[3021](3021). Alice and Bob Playing Flower Game  
 [3024](3024). Type of Triangle  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3085](3085). Minimum Deletions to Make String K-Special  
