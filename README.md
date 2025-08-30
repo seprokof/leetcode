@@ -23,6 +23,7 @@ Solutions to problems from leetcode.com.
 [33](33). Search in Rotated Sorted Array  
 [34](34). Find First and Last Position of Element in Sorted Array  
 [35](35). Search Insert Position  
+[36](36). Valid Sudoku  
 [38](38). Count and Say  
 [50](50). Pow(x, n)  
 [55](55). Jump Game  
