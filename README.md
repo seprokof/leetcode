@@ -232,6 +232,7 @@ Solutions to problems from leetcode.com.
 [1399](1399). Count Largest Group  
 [1408](1408). String Matching in an Array  
 [1415](1415). The k-th Lexicographical String of All Happy Strings of Length n  
+[1417](1417). Reformat The String  
 [1431](1431). Kids With the Greatest Number of Candies  
 [1432](1432). Max Difference You Can Get From Changing an Integer  
 [1448](1448). Count Good Nodes in Binary Tree  
