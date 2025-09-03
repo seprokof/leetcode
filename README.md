@@ -352,6 +352,7 @@ Solutions to problems from leetcode.com.
 [3021](3021). Alice and Bob Playing Flower Game  
 [3024](3024). Type of Triangle  
 [3025](3025). Find the Number of Ways to Place People I  
+[3027](3027). Find the Number of Ways to Place People II  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3085](3085). Minimum Deletions to Make String K-Special  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
