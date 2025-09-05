@@ -345,6 +345,7 @@ Solutions to problems from leetcode.com.
 [2918](2918). Minimum Equal Sum of Two Arrays After Replacing Zeros  
 [2929](2929). Distribute Candies Among Children II  
 [2942](2942). Find Words Containing Character  
+[2951](2951). Find the Peaks  
 [2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
 [2965](2965). Find Missing and Repeated Values  
 [2966](2966). Divide Array Into Arrays With Max Difference  
