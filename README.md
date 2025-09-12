@@ -374,6 +374,7 @@ Solutions to problems from leetcode.com.
 [3195](3195). Find the Minimum Area to Cover All Ones I  
 [3201](3201). Find the Maximum Length of Valid Subsequence I  
 [3208](3208). Alternating Groups II  
+[3227](3227). Vowels Game in a String  
 [3264](3264). Final Array State After K Multiplication Operations I  
 [3304](3304). Find the K-th Character in String Game I  
 [3330](3330). Find the Original Typed String I  
