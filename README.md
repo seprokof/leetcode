@@ -194,6 +194,7 @@ Solutions to problems from leetcode.com.
 [909](909). Snakes and Ladders  
 [933](933). Number of Recent Calls  
 [942](942). DI String Match  
+[966](966). Vowel Spellchecker  
 [977](977). Squares of a Sorted Array  
 [994](994). Rotting Oranges  
 [1002](1002). Find Common Characters  
