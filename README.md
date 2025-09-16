@@ -293,6 +293,7 @@ Solutions to problems from leetcode.com.
 [2160](2160). Minimum Sum of Four Digit Number After Splitting Digits  
 [2161](2161). Partition Array According to Given Pivot  
 [2176](2176). Count Equal and Divisible Pairs in an Array  
+[2197](2197). Replace Non-Coprime Numbers in Array  
 [2200](2200). Find All K-Distant Indices in an Array  
 [2206](2206). Divide Array Into Equal Pairs  
 [2208](2208). Minimum Operations to Halve Array Sum  
