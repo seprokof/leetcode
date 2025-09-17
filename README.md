@@ -312,6 +312,7 @@ Solutions to problems from leetcode.com.
 [2348](2348). Number of Zero-Filled Subarrays  
 [2349](2349). Design a Number Container System  
 [2352](2352). Equal Row and Column Pairs  
+[2353](2353). Design a Food Rating System  
 [2359](2359). Find Closest Node to Given Two Nodes  
 [2364](2364). Count Number of Bad Pairs  
 [2367](2367). Number of Arithmetic Triplets  
