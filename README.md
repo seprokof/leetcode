@@ -401,5 +401,6 @@ Solutions to problems from leetcode.com.
 [3484](3484). Design Spreadsheet  
 [3487](3487). Maximum Unique Subarray Sum After Deletion  
 [3492](3492). Maximum Containers on a Ship  
+[3508](3508). Implement Router  
 [3516](3516). Find Closest Person  
 [3541](3541). Find Most Frequent Vowel and Consonant  
