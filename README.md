@@ -268,6 +268,7 @@ Solutions to problems from leetcode.com.
 [1863](1863). Sum of All Subset XOR Totals  
 [1865](1865). Finding Pairs With a Certain Sum  
 [1910](1910). Remove All Occurrences of a Substring  
+[1912](1912). Design Movie Rental System  
 [1920](1920). Build Array from Permutation  
 [1922](1922). Count Good Numbers  
 [1926](1926). Nearest Exit from Entrance in Maze  
