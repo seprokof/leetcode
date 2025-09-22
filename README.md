@@ -361,6 +361,7 @@ Solutions to problems from leetcode.com.
 [2965](2965). Find Missing and Repeated Values  
 [2966](2966). Divide Array Into Arrays With Max Difference  
 [3000](3000). Maximum Area of Longest Diagonal Rectangle  
+[3005](3005). Count Elements With Maximum Frequency  
 [3021](3021). Alice and Bob Playing Flower Game  
 [3024](3024). Type of Triangle  
 [3025](3025). Find the Number of Ways to Place People I  
