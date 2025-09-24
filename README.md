@@ -60,6 +60,7 @@ Solutions to problems from leetcode.com.
 [160](160). Intersection of Two Linked Lists  
 [162](162). Find Peak Element  
 [165](165). Compare Version Numbers  
+[166](166). Fraction to Recurring Decimal  
 [168](168). Excel Sheet Column Title  
 [169](169). Majority Element  
 [171](171). Excel Sheet Column Number  
