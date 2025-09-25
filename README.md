@@ -49,6 +49,7 @@ Solutions to problems from leetcode.com.
 [112](112). Path Sum  
 [118](118). Pascal's Triangle  
 [119](119). Pascal's Triangle II  
+[120](120). Triangle  
 [121](121). Best Time to Buy and Sell Stock  
 [125](125). Valid Palindrome  
 [135](135). Candy  
