@@ -181,6 +181,7 @@ Solutions to problems from leetcode.com.
 [790](790). Domino and Tromino Tiling  
 [796](796). Rotate String  
 [804](804). Unique Morse Code Words  
+[812](812). Largest Triangle Area  
 [821](821). Shortest Distance to a Character  
 [838](838). Push Dominoes  
 [841](841). Keys and Rooms  
