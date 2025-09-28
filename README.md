@@ -200,6 +200,7 @@ Solutions to problems from leetcode.com.
 [933](933). Number of Recent Calls  
 [942](942). DI String Match  
 [966](966). Vowel Spellchecker  
+[976](976). Largest Perimeter Triangle  
 [977](977). Squares of a Sorted Array  
 [994](994). Rotting Oranges  
 [1002](1002). Find Common Characters  
