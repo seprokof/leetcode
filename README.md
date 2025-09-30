@@ -306,6 +306,7 @@ Solutions to problems from leetcode.com.
 [2208](2208). Minimum Operations to Halve Array Sum  
 [2210](2210). Count Hills and Valleys in an Array  
 [2215](2215). Find the Difference of Two Arrays  
+[2221](2221). Find Triangular Sum of an Array  
 [2226](2226). Maximum Candies Allocated to K Children  
 [2264](2264). Largest 3-Same-Digit Number in String  
 [2283](2283). Check if Number Has Equal Digit Count and Digit Value  
