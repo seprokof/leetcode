@@ -377,6 +377,7 @@ Solutions to problems from leetcode.com.
 [3027](3027). Find the Number of Ways to Place People II  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3085](3085). Minimum Deletions to Make String K-Special  
+[3100](3100). Water Bottles II  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
 [3136](3136). Valid Word  
 [3151](3151). Special Array I  
