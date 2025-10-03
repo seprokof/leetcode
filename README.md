@@ -236,6 +236,7 @@ Solutions to problems from leetcode.com.
 [1352](1352). Product of the Last K Numbers  
 [1353](1353). Maximum Number of Events That Can Be Attended  
 [1358](1358). Number of Substrings Containing All Three Characters  
+[1370](1370). Increasing Decreasing String  
 [1372](1372). Longest ZigZag Path in a Binary Tree  
 [1394](1394). Find Lucky Integer in an Array  
 [1399](1399). Count Largest Group  
