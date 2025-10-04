@@ -332,6 +332,7 @@ Solutions to problems from leetcode.com.
 [2390](2390). Removing Stars From a String  
 [2401](2401). Longest Nice Subarray  
 [2410](2410). Maximum Matching of Players With Trainers  
+[2418](2418). Sort the People  
 [2419](2419). Longest Subarray With Maximum Bitwise AND  
 [2438](2438). Range Product Queries of Powers  
 [2460](2460). Apply Operations to an Array  
