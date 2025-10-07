@@ -251,6 +251,7 @@ Solutions to problems from leetcode.com.
 [1456](1456). Maximum Number of Vowels in a Substring of Given Length  
 [1466](1466). Reorder Routes to Make All Paths Lead to the City Zero  
 [1470](1470). Shuffle the Array  
+[1488](1488). Avoid Flood in The City  
 [1493](1493). Longest Subarray of 1's After Deleting One Element  
 [1498](1498). Number of Subsequences That Satisfy the Given Sum Condition  
 [1518](1518). Water Bottles  
