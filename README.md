@@ -352,6 +352,7 @@ Solutions to problems from leetcode.com.
 [2566](2566). Maximum Difference by Remapping a Digit  
 [2570](2570). Merge Two 2D Arrays by Summing Values  
 [2579](2579). Count Total Number of Colored Cells  
+[2582](2582). Pass the Pillow  
 [2594](2594). Minimum Time to Repair Cars  
 [2616](2616). Minimize the Maximum Difference of Pairs  
 [2678](2678). Number of Senior Citizens  
