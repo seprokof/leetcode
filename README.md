@@ -394,6 +394,7 @@ Solutions to problems from leetcode.com.
 [3169](3169). Count Days Without Meetings  
 [3170](3170). Lexicographically Minimum String After Removing Stars  
 [3174](3174). Clear Digits  
+[3178](3178). Find the Child Who Has the Ball After K Seconds  
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
 [3195](3195). Find the Minimum Area to Cover All Ones I  
 [3201](3201). Find the Maximum Length of Valid Subsequence I  
