@@ -314,6 +314,7 @@ Solutions to problems from leetcode.com.
 [2221](2221). Find Triangular Sum of an Array  
 [2226](2226). Maximum Candies Allocated to K Children  
 [2264](2264). Largest 3-Same-Digit Number in String  
+[2273](2273). Find Resultant Array After Removing Anagrams  
 [2283](2283). Check if Number Has Equal Digit Count and Digit Value  
 [2294](2294). Partition Array Such That Maximum Difference Is K  
 [2300](2300). Successful Pairs of Spells and Potions  
