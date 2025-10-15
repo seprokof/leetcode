@@ -185,6 +185,7 @@ Solutions to problems from leetcode.com.
 [804](804). Unique Morse Code Words  
 [812](812). Largest Triangle Area  
 [821](821). Shortest Distance to a Character  
+[830](830). Positions of Large Groups  
 [838](838). Push Dominoes  
 [841](841). Keys and Rooms  
 [859](859). Buddy Strings  
