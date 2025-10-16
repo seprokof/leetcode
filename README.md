@@ -262,6 +262,7 @@ Solutions to problems from leetcode.com.
 [1636](1636). Sort Array by Increasing Frequency  
 [1652](1652). Defuse the Bomb  
 [1657](1657). Determine if Two Strings Are Close  
+[1678](1678). Goal Parser Interpretation  
 [1679](1679). Max Number of K-Sum Pairs  
 [1684](1684). Count the Number of Consistent Strings  
 [1695](1695). Maximum Erasure Value  
