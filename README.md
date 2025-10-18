@@ -416,6 +416,7 @@ Solutions to problems from leetcode.com.
 [3392](3392). Count Subarrays of Length Three With a Condition  
 [3394](3394). Check if Grid can be Cut into Sections  
 [3396](3396). Minimum Number of Operations to Make Elements in Array Distinct  
+[3397](3397). Maximum Number of Distinct Elements After Operations  
 [3403](3403). Find the Lexicographically Largest String From the Box I  
 [3408](3408). Design Task Manager  
 [3423](3423). Maximum Difference Between Adjacent Elements in a Circular Array  
