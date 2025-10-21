@@ -319,6 +319,7 @@ Solutions to problems from leetcode.com.
 [2226](2226). Maximum Candies Allocated to K Children  
 [2264](2264). Largest 3-Same-Digit Number in String  
 [2273](2273). Find Resultant Array After Removing Anagrams  
+[2278](2278). Percentage of Letter in String  
 [2283](2283). Check if Number Has Equal Digit Count and Digit Value  
 [2293](2293). Min Max Game  
 [2294](2294). Partition Array Such That Maximum Difference Is K  
