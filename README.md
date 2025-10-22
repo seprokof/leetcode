@@ -237,6 +237,7 @@ Solutions to problems from leetcode.com.
 [1313](1313). Decompress Run-Length Encoded List  
 [1317](1317). Convert Integer to the Sum of Two No-Zero Integers  
 [1323](1323). Maximum 69 Number  
+[1351](1351). Count Negative Numbers in a Sorted Matrix  
 [1352](1352). Product of the Last K Numbers  
 [1353](1353). Maximum Number of Events That Can Be Attended  
 [1358](1358). Number of Substrings Containing All Three Characters  
