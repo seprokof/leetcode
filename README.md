@@ -428,6 +428,7 @@ Solutions to problems from leetcode.com.
 [3442](3442). Maximum Difference Between Even and Odd Frequency I  
 [3443](3443). Maximum Manhattan Distance After K Changes  
 [3446](3446). Sort Matrix by Diagonals  
+[3461](3461). Check If Digits Are Equal in String After Operations I  
 [3477](3477). Fruits Into Baskets II  
 [3484](3484). Design Spreadsheet  
 [3487](3487). Maximum Unique Subarray Sum After Deletion  
