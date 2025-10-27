@@ -305,6 +305,7 @@ Solutions to problems from leetcode.com.
 [2108](2108). Find First Palindromic String in the Array  
 [2109](2109). Adding Spaces to a String  
 [2115](2115). Find All Possible Recipes from Given Supplies  
+[2125](2125). Number of Laser Beams in a Bank  
 [2130](2130). Maximum Twin Sum of a Linked List  
 [2131](2131). Longest Palindrome by Concatenating Two Letter Words  
 [2138](2138). Divide a String Into Groups of Size k  
