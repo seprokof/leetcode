@@ -419,6 +419,7 @@ Solutions to problems from leetcode.com.
 [3341](3341). Find Minimum Time to Reach Last Room I  
 [3342](3342). Find Minimum Time to Reach Last Room II  
 [3349](3349). Adjacent Increasing Subarrays Detection I  
+[3354](3354). Make Array Elements Equal to Zero  
 [3355](3355). Zero Array Transformation I  
 [3375](3375). Minimum Operations to Make Array Values Equal to K  
 [3392](3392). Count Subarrays of Length Three With a Condition  
