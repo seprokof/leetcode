@@ -258,6 +258,7 @@ Solutions to problems from leetcode.com.
 [1493](1493). Longest Subarray of 1's After Deleting One Element  
 [1498](1498). Number of Subsequences That Satisfy the Given Sum Condition  
 [1518](1518). Water Bottles  
+[1526](1526). Minimum Number of Increments on Subarrays to Form a Target Array  
 [1534](1534). Count Good Triplets  
 [1550](1550). Three Consecutive Odds  
 [1614](1614). Maximum Nesting Depth of the Parentheses  
