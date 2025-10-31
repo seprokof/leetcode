@@ -414,6 +414,7 @@ Solutions to problems from leetcode.com.
 [3208](3208). Alternating Groups II  
 [3227](3227). Vowels Game in a String  
 [3264](3264). Final Array State After K Multiplication Operations I  
+[3289](3289). The Two Sneaky Numbers of Digitville  
 [3304](3304). Find the K-th Character in String Game I  
 [3330](3330). Find the Original Typed String I  
 [3335](3335). Total Characters in String After Transformations I  
