@@ -420,6 +420,7 @@ Solutions to problems from leetcode.com.
 [3264](3264). Final Array State After K Multiplication Operations I  
 [3289](3289). The Two Sneaky Numbers of Digitville  
 [3304](3304). Find the K-th Character in String Game I  
+[3318](3318). Find X-Sum of All K-Long Subarrays I  
 [3330](3330). Find the Original Typed String I  
 [3335](3335). Total Characters in String After Transformations I  
 [3341](3341). Find Minimum Time to Reach Last Room I  
