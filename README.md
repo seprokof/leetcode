@@ -386,6 +386,7 @@ Solutions to problems from leetcode.com.
 [2900](2900). Longest Unequal Adjacent Groups Subsequence I  
 [2901](2901). Longest Unequal Adjacent Groups Subsequence II  
 [2918](2918). Minimum Equal Sum of Two Arrays After Replacing Zeros  
+[2928](2928). Distribute Candies Among Children I  
 [2929](2929). Distribute Candies Among Children II  
 [2942](2942). Find Words Containing Character  
 [2951](2951). Find the Peaks  
