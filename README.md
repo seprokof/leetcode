@@ -135,6 +135,7 @@ Solutions to problems from leetcode.com.
 [459](459). Repeated Substring Pattern  
 [461](461). Hamming Distance  
 [463](463). Island Perimeter  
+[474](474). Ones and Zeroes  
 [476](476). Number Complement  
 [482](482). License Key Formatting  
 [485](485). Max Consecutive Ones  
