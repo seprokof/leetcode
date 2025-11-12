@@ -373,6 +373,7 @@ Solutions to problems from leetcode.com.
 [2582](2582). Pass the Pillow  
 [2594](2594). Minimum Time to Repair Cars  
 [2616](2616). Minimize the Maximum Difference of Pairs  
+[2654](2654). Minimum Number of Operations to Make All Array Elements Equal to 1  
 [2678](2678). Number of Senior Citizens  
 [2685](2685). Count the Number of Complete Components  
 [2698](2698). Find the Punishment Number of an Integer  
