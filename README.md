@@ -362,6 +362,7 @@ Solutions to problems from leetcode.com.
 [2506](2506). Count Pairs Of Similar Strings  
 [2523](2523). Closest Prime Numbers in Range  
 [2529](2529). Maximum Count of Positive Integer and Negative Integer  
+[2536](2536). Increment Submatrices by One  
 [2537](2537). Count the Number of Good Subarrays  
 [2542](2542). Maximum Subsequence Score  
 [2551](2551). Put Marbles in Bags  
