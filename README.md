@@ -258,6 +258,7 @@ Solutions to problems from leetcode.com.
 [1488](1488). Avoid Flood in The City  
 [1493](1493). Longest Subarray of 1's After Deleting One Element  
 [1498](1498). Number of Subsequences That Satisfy the Given Sum Condition  
+[1513](1513). Number of Substrings With Only 1s  
 [1518](1518). Water Bottles  
 [1526](1526). Minimum Number of Increments on Subarrays to Form a Target Array  
 [1534](1534). Count Good Triplets  
