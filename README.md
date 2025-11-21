@@ -295,6 +295,7 @@ Solutions to problems from leetcode.com.
 [1920](1920). Build Array from Permutation  
 [1922](1922). Count Good Numbers  
 [1926](1926). Nearest Exit from Entrance in Maze  
+[1930](1930). Unique Length-3 Palindromic Subsequences  
 [1935](1935). Maximum Number of Words You Can Type  
 [1957](1957). Delete Characters to Make Fancy String  
 [1971](1971). Find if Path Exists in Graph  
