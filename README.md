@@ -396,6 +396,7 @@ Solutions to problems from leetcode.com.
 [2894](2894). Divisible and Non-divisible Sums Difference  
 [2900](2900). Longest Unequal Adjacent Groups Subsequence I  
 [2901](2901). Longest Unequal Adjacent Groups Subsequence II  
+[2908](2908). Minimum Sum of Mountain Triplets I  
 [2918](2918). Minimum Equal Sum of Two Arrays After Replacing Zeros  
 [2928](2928). Distribute Candies Among Children I  
 [2929](2929). Distribute Candies Among Children II  
