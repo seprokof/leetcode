@@ -231,6 +231,7 @@ Solutions to problems from leetcode.com.
 [1221](1221). Split a String in Balanced Strings  
 [1233](1233). Remove Sub-Folders from the Filesystem  
 [1261](1261). Find Elements in a Contaminated Binary Tree  
+[1262](1262). Greatest Sum Divisible by Three  
 [1295](1295). Find Numbers with Even Number of Digits  
 [1268](1268). Search Suggestions System  
 [1290](1290). Convert Binary Number in a Linked List to Integer  
