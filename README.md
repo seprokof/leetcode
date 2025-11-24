@@ -213,6 +213,7 @@ Solutions to problems from leetcode.com.
 [1002](1002). Find Common Characters  
 [1004](1004). Max Consecutive Ones III  
 [1007](1007). Minimum Domino Rotations For Equal Row  
+[1018](1018). Binary Prefix Divisible By 5  
 [1021](1021). Remove Outermost Parentheses  
 [1047](1047). Remove All Adjacent Duplicates In String  
 [1051](1051). Height Checker  
