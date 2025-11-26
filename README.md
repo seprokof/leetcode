@@ -420,6 +420,7 @@ Solutions to problems from leetcode.com.
 [3100](3100). Water Bottles II  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
 [3136](3136). Valid Word  
+[3142](3142). Check if Grid Satisfies Conditions  
 [3147](3147). Taking Maximum Energy From the Mystic Dungeon  
 [3151](3151). Special Array I  
 [3152](3152). Special Array II  
