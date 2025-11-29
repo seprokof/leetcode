@@ -469,6 +469,7 @@ Solutions to problems from leetcode.com.
 [3492](3492). Maximum Containers on a Ship  
 [3494](3494). Find the Minimum Amount of Time to Brew Potions  
 [3508](3508). Implement Router  
+[3512](3512). Minimum Operations to Make Array Sum Divisible by K  
 [3516](3516). Find Closest Person  
 [3541](3541). Find Most Frequent Vowel and Consonant  
 [3542](3542). Minimum Operations to Convert All Elements to Zero  
