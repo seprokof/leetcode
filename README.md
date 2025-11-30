@@ -270,6 +270,7 @@ Solutions to problems from leetcode.com.
 [1534](1534). Count Good Triplets  
 [1550](1550). Three Consecutive Odds  
 [1578](1578). Minimum Time to Make Rope Colorful  
+[1590](1590). Make Sum Divisible by P  
 [1614](1614). Maximum Nesting Depth of the Parentheses  
 [1636](1636). Sort Array by Increasing Frequency  
 [1652](1652). Defuse the Bomb  
