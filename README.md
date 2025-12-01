@@ -375,6 +375,7 @@ Solutions to problems from leetcode.com.
 [2536](2536). Increment Submatrices by One  
 [2537](2537). Count the Number of Good Subarrays  
 [2542](2542). Maximum Subsequence Score  
+[2544](2544). Alternating Digit Sum  
 [2551](2551). Put Marbles in Bags  
 [2560](2560). House Robber IV  
 [2563](2563). Count the Number of Fair Pairs  
