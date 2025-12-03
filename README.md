@@ -374,6 +374,7 @@ Solutions to problems from leetcode.com.
 [2529](2529). Maximum Count of Positive Integer and Negative Integer  
 [2536](2536). Increment Submatrices by One  
 [2537](2537). Count the Number of Good Subarrays  
+[2540](2540). Minimum Common Value  
 [2542](2542). Maximum Subsequence Score  
 [2544](2544). Alternating Digit Sum  
 [2551](2551). Put Marbles in Bags  
