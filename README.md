@@ -333,6 +333,7 @@ Solutions to problems from leetcode.com.
 [2206](2206). Divide Array Into Equal Pairs  
 [2208](2208). Minimum Operations to Halve Array Sum  
 [2210](2210). Count Hills and Valleys in an Array  
+[2211](2211). Count Collisions on a Road  
 [2215](2215). Find the Difference of Two Arrays  
 [2221](2221). Find Triangular Sum of an Array  
 [2226](2226). Maximum Candies Allocated to K Children  
