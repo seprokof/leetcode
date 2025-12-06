@@ -442,6 +442,7 @@ Solutions to problems from leetcode.com.
 [3227](3227). Vowels Game in a String  
 [3228](3228). Maximum Number of Operations to Move Ones to the End  
 [3264](3264). Final Array State After K Multiplication Operations I  
+[3270](3270). Find the Key of the Numbers  
 [3289](3289). The Two Sneaky Numbers of Digitville  
 [3304](3304). Find the K-th Character in String Game I  
 [3318](3318). Find X-Sum of All K-Long Subarrays I  
