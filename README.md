@@ -299,6 +299,7 @@ Solutions to problems from leetcode.com.
 [1912](1912). Design Movie Rental System  
 [1920](1920). Build Array from Permutation  
 [1922](1922). Count Good Numbers  
+[1925](1925). Count Square Sum Triples  
 [1926](1926). Nearest Exit from Entrance in Maze  
 [1930](1930). Unique Length-3 Palindromic Subsequences  
 [1935](1935). Maximum Number of Words You Can Type  
