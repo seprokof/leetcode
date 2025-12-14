@@ -325,6 +325,7 @@ Solutions to problems from leetcode.com.
 [2138](2138). Divide a String Into Groups of Size k  
 [2140](2140). Solving Questions With Brainpower  
 [2145](2145). Count the Hidden Sequences  
+[2147](2147). Number of Ways to Divide a Long Corridor  
 [2154](2154). Keep Multiplying Found Values by Two  
 [2160](2160). Minimum Sum of Four Digit Number After Splitting Digits  
 [2161](2161). Partition Array According to Given Pivot  
