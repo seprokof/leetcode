@@ -318,6 +318,7 @@ Solutions to problems from leetcode.com.
 [2099](2099). Find Subsequence of Length K With the Largest Sum  
 [2108](2108). Find First Palindromic String in the Array  
 [2109](2109). Adding Spaces to a String  
+[2110](2110). Number of Smooth Descent Periods of a Stock  
 [2115](2115). Find All Possible Recipes from Given Supplies  
 [2125](2125). Number of Laser Beams in a Bank  
 [2130](2130). Maximum Twin Sum of a Linked List  
