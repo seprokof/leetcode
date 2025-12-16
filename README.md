@@ -173,6 +173,7 @@ Solutions to problems from leetcode.com.
 [709](709). To Lower Case  
 [717](717). 1-bit and 2-bit Characters  
 [724](724). Find Pivot Index  
+[728](728). Self Dividing Numbers  
 [735](735). Asteroid Collision  
 [739](739). Daily Temperatures  
 [746](746). Min Cost Climbing Stairs  
