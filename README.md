@@ -282,6 +282,7 @@ Solutions to problems from leetcode.com.
 [1679](1679). Max Number of K-Sum Pairs  
 [1684](1684). Count the Number of Consistent Strings  
 [1695](1695). Maximum Erasure Value  
+[1704](1704). Determine if String Halves Are Alike  
 [1716](1716). Calculate Money in Leetcode Bank  
 [1717](1717). Maximum Score From Removing Substrings  
 [1726](1726). Tuple with Same Product  
