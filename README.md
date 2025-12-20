@@ -207,6 +207,7 @@ Solutions to problems from leetcode.com.
 [909](909). Snakes and Ladders  
 [933](933). Number of Recent Calls  
 [942](942). DI String Match  
+[944](944). Delete Columns to Make Sorted  
 [961](961). N-Repeated Element in Size 2N Array  
 [966](966). Vowel Spellchecker  
 [976](976). Largest Perimeter Triangle  
