@@ -406,6 +406,7 @@ Solutions to problems from leetcode.com.
 [2780](2780). Minimum Index of a Valid Split  
 [2785](2785). Sort Vowels in a String  
 [2799](2799). Count Complete Subarrays in an Array  
+[2828](2828). Check if a String Is an Acronym of Words  
 [2843](2843). Count Symmetric Integers  
 [2848](2848). Points That Intersect With Cars  
 [2873](2873). Maximum Value of an Ordered Triplet I  
