@@ -432,6 +432,7 @@ Solutions to problems from leetcode.com.
 [3027](3027). Find the Number of Ways to Place People II  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3074](3074). Apple Redistribution into Boxes  
+[3075](3075). Maximize Happiness of Selected Children  
 [3085](3085). Minimum Deletions to Make String K-Special  
 [3095](3095). Shortest Subarray With OR at Least K I  
 [3100](3100). Water Bottles II  

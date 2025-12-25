@@ -16,7 +16,7 @@ class Solution {
         Solution s = new Solution();
 
         for (TestCase test : tests) {
-            int actual = s.maxTwoEvents(test.in);
+            int actual = s.maxTwoEvents(Arrays.copyOf(test.in, test.in.length));
             assert test.expected == actual : "maxTwoEvents(%s) = %s, want %s".formatted(Arrays.deepToString(test.in),
                     actual, test.expected);
         }
