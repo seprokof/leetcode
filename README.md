@@ -380,6 +380,7 @@ Solutions to problems from leetcode.com.
 [2438](2438). Range Product Queries of Powers  
 [2460](2460). Apply Operations to an Array  
 [2462](2462). Total Cost to Hire K Workers  
+[2483](2483). Minimum Penalty for a Shop  
 [2503](2503). Maximum Number of Points From Grid Queries  
 [2506](2506). Count Pairs Of Similar Strings  
 [2523](2523). Closest Prime Numbers in Range  
