@@ -295,6 +295,7 @@ Solutions to problems from leetcode.com.
 [1752](1752). Check if Array Is Sorted and Rotated  
 [1768](1768). Merge Strings Alternately  
 [1780](1780). Check if Number is a Sum of Powers of Three  
+[1784](1784). Check if Binary String Has at Most One Segment of Ones  
 [1790](1790). Check if One String Swap Can Make Strings Equal  
 [1792](1792). Maximum Average Pass Ratio  
 [1800](1800). Maximum Ascending Subarray Sum  
