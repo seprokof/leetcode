@@ -179,6 +179,7 @@ Solutions to problems from leetcode.com.
 [739](739). Daily Temperatures  
 [746](746). Min Cost Climbing Stairs  
 [747](747). Largest Number At Least Twice of Others  
+[756](756). Pyramid Transition Matrix  
 [757](757). Set Intersection Size At Least Two  
 [763](763). Partition Labels  
 [771](771). Jewels and Stones  
