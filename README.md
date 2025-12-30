@@ -193,6 +193,7 @@ Solutions to problems from leetcode.com.
 [821](821). Shortest Distance to a Character  
 [830](830). Positions of Large Groups  
 [838](838). Push Dominoes  
+[840](840). Magic Squares In Grid  
 [841](841). Keys and Rooms  
 [859](859). Buddy Strings  
 [865](865). Smallest Subtree with all the Deepest Nodes  
