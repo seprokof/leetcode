@@ -25,6 +25,7 @@ Solutions to problems from leetcode.com.
 [35](35). Search Insert Position  
 [36](36). Valid Sudoku  
 [38](38). Count and Say  
+[48](48). Rotate Image  
 [50](50). Pow(x, n)  
 [55](55). Jump Game  
 [56](56). Merge Intervals  
