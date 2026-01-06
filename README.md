@@ -209,6 +209,7 @@ Solutions to problems from leetcode.com.
 [904](904). Fruit Into Baskets  
 [909](909). Snakes and Ladders  
 [933](933). Number of Recent Calls  
+[941](941). Valid Mountain Array  
 [942](942). DI String Match  
 [944](944). Delete Columns to Make Sorted  
 [955](955). Delete Columns to Make Sorted II  
