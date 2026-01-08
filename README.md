@@ -463,6 +463,7 @@ Solutions to problems from leetcode.com.
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
 [3195](3195). Find the Minimum Area to Cover All Ones I  
 [3201](3201). Find the Maximum Length of Valid Subsequence I  
+[3206](3206). Alternating Groups I  
 [3208](3208). Alternating Groups II  
 [3217](3217). Delete Nodes From Linked List Present in Array  
 [3227](3227). Vowels Game in a String  
