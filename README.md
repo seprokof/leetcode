@@ -141,6 +141,7 @@ Solutions to problems from leetcode.com.
 [482](482). License Key Formatting  
 [485](485). Max Consecutive Ones  
 [492](492). Construct the Rectangle  
+[494](494). Target Sum  
 [495](495). Teemo Attacking  
 [496](496). Next Greater Element I  
 [498](498). Diagonal Traverse  
