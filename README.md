@@ -238,6 +238,7 @@ Solutions to problems from leetcode.com.
 [1143](1143). Longest Common Subsequence  
 [1160](1160). Find Words That Can Be Formed by Characters  
 [1161](1161). Maximum Level Sum of a Binary Tree  
+[1189](1189). Maximum Number of Balloons  
 [1200](1200). Minimum Absolute Difference  
 [1207](1207). Unique Number of Occurrences  
 [1221](1221). Split a String in Balanced Strings  
