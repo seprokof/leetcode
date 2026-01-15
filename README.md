@@ -437,6 +437,7 @@ Solutions to problems from leetcode.com.
 [2928](2928). Distribute Candies Among Children I  
 [2929](2929). Distribute Candies Among Children II  
 [2942](2942). Find Words Containing Character  
+[2943](2943). Maximize Area of Square Hole in Grid  
 [2951](2951). Find the Peaks  
 [2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
 [2965](2965). Find Missing and Repeated Values  
