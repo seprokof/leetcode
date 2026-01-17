@@ -449,6 +449,7 @@ Solutions to problems from leetcode.com.
 [3024](3024). Type of Triangle  
 [3025](3025). Find the Number of Ways to Place People I  
 [3027](3027). Find the Number of Ways to Place People II  
+[3047](3047). Find the Largest Area of Square Inside Two Rectangles  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3074](3074). Apple Redistribution into Boxes  
 [3075](3075). Maximize Happiness of Selected Children  
