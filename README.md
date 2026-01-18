@@ -315,6 +315,7 @@ Solutions to problems from leetcode.com.
 [1844](1844). Replace All Digits with Characters  
 [1863](1863). Sum of All Subset XOR Totals  
 [1865](1865). Finding Pairs With a Certain Sum  
+[1895](1895). Largest Magic Square  
 [1910](1910). Remove All Occurrences of a Substring  
 [1912](1912). Design Movie Rental System  
 [1920](1920). Build Array from Permutation  
