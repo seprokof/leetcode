@@ -515,6 +515,7 @@ Solutions to problems from leetcode.com.
 [3487](3487). Maximum Unique Subarray Sum After Deletion  
 [3492](3492). Maximum Containers on a Ship  
 [3494](3494). Find the Minimum Amount of Time to Brew Potions  
+[3507](3507). Minimum Pair Removal to Sort Array I  
 [3508](3508). Implement Router  
 [3512](3512). Minimum Operations to Make Array Sum Divisible by K  
 [3516](3516). Find Closest Person  
