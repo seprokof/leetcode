@@ -471,6 +471,7 @@ Solutions to problems from leetcode.com.
 [3178](3178). Find the Child Who Has the Ball After K Seconds  
 [3190](3190). Find Minimum Operations to Make All Elements Divisible by Three  
 [3191](3191). Minimum Operations to Make Binary Array Elements Equal to One I  
+[3194](3194). Minimum Average of Smallest and Largest Elements  
 [3195](3195). Find the Minimum Area to Cover All Ones I  
 [3201](3201). Find the Maximum Length of Valid Subsequence I  
 [3206](3206). Alternating Groups I  
