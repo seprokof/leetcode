@@ -330,6 +330,7 @@ Solutions to problems from leetcode.com.
 [1971](1971). Find if Path Exists in Graph  
 [1975](1975). Maximum Matrix Sum  
 [1980](1980). Find Unique Binary String  
+[1984](1984). Minimum Difference Between Highest and Lowest of K Scores  
 [2011](2011). Final Value of Variable After Performing Operations  
 [2016](2016). Maximum Difference Between Increasing Elements  
 [2032](2032). Two Out of Three  
