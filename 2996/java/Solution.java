@@ -14,7 +14,7 @@ class Solution {
         Solution s = new Solution();
 
         for (TestCase test : tests) {
-            int actual = s.missingInteger(Arrays.copyOf(test.in, test.in.length));
+            int actual = s.missingInteger(test.in);
             assert test.expected == actual : "missingInteger(%s) = %s, want %s".formatted(Arrays.toString(test.in),
                     actual, test.expected);
         }
