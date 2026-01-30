@@ -485,6 +485,7 @@ Solutions to problems from leetcode.com.
 [3217](3217). Delete Nodes From Linked List Present in Array  
 [3227](3227). Vowels Game in a String  
 [3228](3228). Maximum Number of Operations to Move Ones to the End  
+[3232](3232). Find if Digit Game Can Be Won  
 [3248](3248). Snake in Matrix  
 [3264](3264). Final Array State After K Multiplication Operations I  
 [3270](3270). Find the Key of the Numbers  
