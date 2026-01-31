@@ -181,6 +181,7 @@ Solutions to problems from leetcode.com.
 [728](728). Self Dividing Numbers  
 [735](735). Asteroid Collision  
 [739](739). Daily Temperatures  
+[744](744). Find Smallest Letter Greater Than Target  
 [746](746). Min Cost Climbing Stairs  
 [747](747). Largest Number At Least Twice of Others  
 [756](756). Pyramid Transition Matrix  
