@@ -538,3 +538,4 @@ Solutions to problems from leetcode.com.
 [3583](3583). Count Special Triplets  
 [3606](3606). Coupon Code Validator  
 [3623](3623). Count Number of Trapezoids I  
+[3637](3637). Trionic Array I  
