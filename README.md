@@ -296,6 +296,7 @@ Solutions to problems from leetcode.com.
 [1614](1614). Maximum Nesting Depth of the Parentheses  
 [1636](1636). Sort Array by Increasing Frequency  
 [1652](1652). Defuse the Bomb  
+[1653](1653). Minimum Deletions to Make String Balanced  
 [1657](1657). Determine if Two Strings Are Close  
 [1678](1678). Goal Parser Interpretation  
 [1679](1679). Max Number of K-Sum Pairs  
