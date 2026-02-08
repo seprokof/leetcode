@@ -7,7 +7,7 @@ class Solution {
         record TestCase(int[] in1, int in2, int expected) {}
 
         TestCase[] tests = {
-                new TestCase(new int[] { 2, 1, 5}, 2, 1),
+                new TestCase(new int[] { 2, 1, 5 }, 2, 1),
                 new TestCase(new int[] { 1, 6, 2, 9 }, 3, 2),
                 new TestCase(new int[] { 4, 6 }, 2, 0)
                 };

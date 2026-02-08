@@ -539,6 +539,7 @@ Solutions to problems from leetcode.com.
 [3550](3550). Smallest Index With Digit Sum Equal to Index  
 [3577](3577). Count the Number of Computer Unlocking Permutations  
 [3583](3583). Count Special Triplets  
+[3591](3591). Check if Any Element Has Prime Frequency  
 [3606](3606). Coupon Code Validator  
 [3623](3623). Count Number of Trapezoids I  
 [3634](3634). Minimum Removals to Balance Array  
