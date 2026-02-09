@@ -265,6 +265,7 @@ Solutions to problems from leetcode.com.
 [1358](1358). Number of Substrings Containing All Three Characters  
 [1370](1370). Increasing Decreasing String  
 [1372](1372). Longest ZigZag Path in a Binary Tree  
+[1382](1382). Balance a Binary Search Tree  
 [1390](1390). Four Divisors  
 [1394](1394). Find Lucky Integer in an Array  
 [1399](1399). Count Largest Group  
