@@ -309,6 +309,7 @@ Solutions to problems from leetcode.com.
 [1726](1726). Tuple with Same Product  
 [1732](1732). Find the Highest Altitude  
 [1733](1733). Minimum Number of People to Teach  
+[1742](1742). Maximum Number of Balls in a Box  
 [1749](1749). Maximum Absolute Sum of Any Subarray  
 [1752](1752). Check if Array Is Sorted and Rotated  
 [1768](1768). Merge Strings Alternately  
