@@ -546,4 +546,5 @@ Solutions to problems from leetcode.com.
 [3623](3623). Count Number of Trapezoids I  
 [3634](3634). Minimum Removals to Balance Array  
 [3637](3637). Trionic Array I  
+[3713](3713). Longest Balanced Substring I  
 [3719](3719). Longest Balanced Subarray I  
