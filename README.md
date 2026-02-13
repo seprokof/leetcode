@@ -174,6 +174,7 @@ Solutions to problems from leetcode.com.
 [697](697). Degree of an Array  
 [700](700). Search in a Binary Search Tree  
 [704](704). Binary Search  
+[706](706). Design HashMap  
 [709](709). To Lower Case  
 [712](712). Minimum ASCII Delete Sum for Two Strings  
 [717](717). 1-bit and 2-bit Characters  
