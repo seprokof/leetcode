@@ -20,21 +20,16 @@ class Solution {
     }
 
     public double champagneTower(int poured, int query_row, int query_glass) {
-        double[] previous = new double[100];
-        previous[0] = poured;
-        double[] current;
+        double[] glasses = new double[100];
+        glasses[0] = poured;
         for (int row = 0; row < query_row; row++) {
-            current = new double[100];
-            for (int col = 0; col <= row; col++) {
-                double vol = (previous[col] - 1.0) / 2.0;
-                if (vol > 0) {
-                    current[col] += vol;
-                    current[col + 1] += vol;
-                }
+            for (int col = row; col >= 0; col--) {
+                double vol = Math.max((glasses[col] - 1.0) / 2.0, 0.0);
+                glasses[col] = vol;
+                glasses[col + 1] += vol;
             }
-            previous = current;
         }
-        return Math.min(1.0, previous[query_glass]);
+        return Math.min(1.0, glasses[query_glass]);
     }
 
 }
