@@ -379,6 +379,7 @@ Solutions to problems from leetcode.com.
 [2221](2221). Find Triangular Sum of an Array  
 [2226](2226). Maximum Candies Allocated to K Children  
 [2236](2236). Root Equals Sum of Children  
+[2239](2239). Find Closest Number to Zero  
 [2257](2257). Count Unguarded Cells in the Grid  
 [2264](2264). Largest 3-Same-Digit Number in String  
 [2273](2273). Find Resultant Array After Removing Anagrams  
