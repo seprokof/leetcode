@@ -117,6 +117,7 @@ Solutions to problems from leetcode.com.
 [392](392). Is Subsequence  
 [394](394). Decode String  
 [399](399). Evaluate Division  
+[401](401). Binary Watch  
 [404](404). Sum of Left Leaves  
 [409](409). Longest Palindrome  
 [412](412). Fizz Buzz  
