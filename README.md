@@ -172,6 +172,7 @@ Solutions to problems from leetcode.com.
 [649](649). Dota2 Senate  
 [657](657). Robot Return to Origin  
 [682](682). Baseball Game  
+[693](693). Binary Number with Alternating Bits  
 [697](697). Degree of an Array  
 [700](700). Search in a Binary Search Tree  
 [704](704). Binary Search  
