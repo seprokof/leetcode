@@ -190,6 +190,7 @@ Solutions to problems from leetcode.com.
 [747](747). Largest Number At Least Twice of Others  
 [756](756). Pyramid Transition Matrix  
 [757](757). Set Intersection Size At Least Two  
+[761](761). Special Binary String  
 [763](763). Partition Labels  
 [771](771). Jewels and Stones  
 [778](778). Swim in Rising Water  
