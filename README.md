@@ -191,6 +191,7 @@ Solutions to problems from leetcode.com.
 [756](756). Pyramid Transition Matrix  
 [757](757). Set Intersection Size At Least Two  
 [761](761). Special Binary String  
+[762](762). Prime Number of Set Bits in Binary Representation  
 [763](763). Partition Labels  
 [771](771). Jewels and Stones  
 [778](778). Swim in Rising Water  
