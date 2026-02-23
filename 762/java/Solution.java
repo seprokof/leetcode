@@ -15,7 +15,7 @@ class Solution {
 
         for (TestCase test : tests) {
             int actual = s.countPrimeSetBits(test.in1, test.in2);
-            assert Objects.equals(test.expected, actual) : "countPrimeSetBits(%s, %s) = %s, want %s".formatted(test.in1,
+            assert test.expected == actual : "countPrimeSetBits(%s, %s) = %s, want %s".formatted(test.in1,
                     test.in2, actual, test.expected);
         }
     }

@@ -216,6 +216,7 @@ Solutions to problems from leetcode.com.
 [875](875). Koko Eating Bananas  
 [876](876). Middle of the Linked List  
 [889](889). Construct Binary Tree from Preorder and Postorder Traversal  
+[896](896). Monotonic Array  
 [898](898). Bitwise ORs of Subarrays  
 [901](901). Online Stock Span  
 [904](904). Fruit Into Baskets  
