@@ -237,6 +237,7 @@ Solutions to problems from leetcode.com.
 [1015](1015). Smallest Integer Divisible by K  
 [1018](1018). Binary Prefix Divisible By 5  
 [1021](1021). Remove Outermost Parentheses  
+[1022](1022). Sum of Root To Leaf Binary Numbers  
 [1047](1047). Remove All Adjacent Duplicates In String  
 [1051](1051). Height Checker  
 [1071](1071). Greatest Common Divisor of Strings  
