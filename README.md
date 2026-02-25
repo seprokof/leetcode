@@ -272,6 +272,7 @@ Solutions to problems from leetcode.com.
 [1351](1351). Count Negative Numbers in a Sorted Matrix  
 [1352](1352). Product of the Last K Numbers  
 [1353](1353). Maximum Number of Events That Can Be Attended  
+[1356](1356). Sort Integers by The Number of 1 Bits  
 [1358](1358). Number of Substrings Containing All Three Characters  
 [1370](1370). Increasing Decreasing String  
 [1372](1372). Longest ZigZag Path in a Binary Tree  
