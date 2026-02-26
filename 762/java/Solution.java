@@ -1,5 +1,3 @@
-import java.util.Objects;
-
 class Solution {
 
     public static void main(String[] args) {
@@ -15,8 +13,8 @@ class Solution {
 
         for (TestCase test : tests) {
             int actual = s.countPrimeSetBits(test.in1, test.in2);
-            assert test.expected == actual : "countPrimeSetBits(%s, %s) = %s, want %s".formatted(test.in1,
-                    test.in2, actual, test.expected);
+            assert test.expected == actual : "countPrimeSetBits(%s, %s) = %s, want %s".formatted(test.in1, test.in2,
+                    actual, test.expected);
         }
     }
 

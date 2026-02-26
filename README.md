@@ -280,6 +280,7 @@ Solutions to problems from leetcode.com.
 [1390](1390). Four Divisors  
 [1394](1394). Find Lucky Integer in an Array  
 [1399](1399). Count Largest Group  
+[1404](1404). Number of Steps to Reduce a Number in Binary Representation to One  
 [1408](1408). String Matching in an Array  
 [1411](1411). Number of Ways to Paint N × 3 Grid  
 [1415](1415). The k-th Lexicographical String of All Happy Strings of Length n  
