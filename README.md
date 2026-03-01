@@ -316,6 +316,7 @@ Solutions to problems from leetcode.com.
 [1679](1679). Max Number of K-Sum Pairs  
 [1680](1680). Concatenation of Consecutive Binary Numbers  
 [1684](1684). Count the Number of Consistent Strings  
+[1689](1689). Partitioning Into Minimum Number Of Deci-Binary Numbers  
 [1695](1695). Maximum Erasure Value  
 [1704](1704). Determine if String Halves Are Alike  
 [1716](1716). Calculate Money in Leetcode Bank  
