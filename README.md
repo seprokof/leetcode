@@ -302,6 +302,8 @@ Solutions to problems from leetcode.com.
 [1523](1523). Count Odd Numbers in an Interval Range  
 [1526](1526). Minimum Number of Increments on Subarrays to Form a Target Array  
 [1534](1534). Count Good Triplets  
+[1536](1536). Minimum Swaps to Arrange a Binary Grid  
+[1545](1545). Find Kth Bit in Nth Binary String  
 [1550](1550). Three Consecutive Odds  
 [1578](1578). Minimum Time to Make Rope Colorful  
 [1582](1582). Special Positions in a Binary Matrix  
