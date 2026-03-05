@@ -329,6 +329,7 @@ Solutions to problems from leetcode.com.
 [1742](1742). Maximum Number of Balls in a Box  
 [1749](1749). Maximum Absolute Sum of Any Subarray  
 [1752](1752). Check if Array Is Sorted and Rotated  
+[1758](1758). Minimum Changes To Make Alternating Binary String  
 [1768](1768). Merge Strings Alternately  
 [1780](1780). Check if Number is a Sum of Powers of Three  
 [1784](1784). Check if Binary String Has at Most One Segment of Ones  
