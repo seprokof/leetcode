@@ -158,6 +158,7 @@ Solutions to problems from leetcode.com.
 [541](541). Reverse String II  
 [543](543). Diameter of Binary Tree  
 [547](547). Number of Provinces  
+[551](551). Student Attendance Record I  
 [557](557). Reverse Words in a String III  
 [561](561). Array Partition  
 [575](575). Distribute Candies  
