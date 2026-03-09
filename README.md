@@ -161,6 +161,7 @@ Solutions to problems from leetcode.com.
 [551](551). Student Attendance Record I  
 [557](557). Reverse Words in a String III  
 [561](561). Array Partition  
+[566](566). Reshape the Matrix  
 [575](575). Distribute Candies  
 [594](594). Longest Harmonious Subsequence  
 [598](598). Range Addition II  
