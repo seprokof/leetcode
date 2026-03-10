@@ -367,6 +367,7 @@ Solutions to problems from leetcode.com.
 [2033](2033). Minimum Operations to Make a Uni-Value Grid  
 [2043](2043). Simple Bank System  
 [2048](2048). Next Greater Numerically Balanced Number  
+[2053](2053). Kth Distinct String in an Array  
 [2054](2054). Two Best Non-Overlapping Events  
 [2081](2081). Sum of k-Mirror Numbers  
 [2094](2094). Finding 3-Digit Even Numbers  
