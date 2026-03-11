@@ -3,19 +3,20 @@ You are given a license key represented as a string `s` that consists of only al
 
 **Example 1:**
 ```
-Input: num = 5
-Output: 2
-Explanation: The binary representation of 5 is 101 (no leading zero bits), and its complement is 010. So you need to output 2.
+Input: s = "5F3Z-2e-9-w", k = 4
+Output: "5F3Z-2E9W"
+Explanation: The string s has been split into two parts, each part has 4 characters.
+Note that the two extra dashes are not needed and can be removed.
 ```
 
 **Example 2:**
 ```
-Input: num = 1
-Output: 0
-Explanation: The binary representation of 1 is 1 (no leading zero bits), and its complement is 0. So you need to output 0.
+Input: s = "2-5g-3-J", k = 2
+Output: "2-5G-3J"
+Explanation: The string s has been split into three parts, each part has 2 characters except the first part as it could be shorter as mentioned above.
 ```
 
 **Constraints:**
-- `1 <= num < 2^31`
-
-**Note:** This question is the same as 1009: https://leetcode.com/problems/complement-of-base-10-integer/
+- `1 <= s.length <= 10^5`
+- `s` consists of English letters, digits, and dashes `'-'`.
+- `1 <= k <= 10^4`
