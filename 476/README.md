@@ -21,4 +21,4 @@ Explanation: The binary representation of 1 is 1 (no leading zero bits), and its
 **Constraints:**
 - `1 <= num < 2^31`
 
-**Note:** This question is the same as 1009: https://leetcode.com/problems/complement-of-base-10-integer/
+**Note:** This question is the same as [1009: Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
