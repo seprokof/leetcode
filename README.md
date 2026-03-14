@@ -224,6 +224,7 @@ Solutions to problems from leetcode.com.
 [901](901). Online Stock Span  
 [904](904). Fruit Into Baskets  
 [909](909). Snakes and Ladders  
+[914](914). X of a Kind in a Deck of Cards  
 [933](933). Number of Recent Calls  
 [941](941). Valid Mountain Array  
 [942](942). DI String Match  
