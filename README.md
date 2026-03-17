@@ -538,6 +538,7 @@ Solutions to problems from leetcode.com.
 [3349](3349). Adjacent Increasing Subarrays Detection I  
 [3354](3354). Make Array Elements Equal to Zero  
 [3355](3355). Zero Array Transformation I  
+[3356](3356). Zero Array Transformation II  
 [3370](3370). Smallest Number With All Set Bits  
 [3375](3375). Minimum Operations to Make Array Values Equal to K  
 [3379](3379). Transformed Array  
