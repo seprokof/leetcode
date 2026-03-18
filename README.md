@@ -496,6 +496,7 @@ Solutions to problems from leetcode.com.
 [3027](3027). Find the Number of Ways to Place People II  
 [3047](3047). Find the Largest Area of Square Inside Two Rectangles  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
+[3070](3070). Count Submatrices with Top-Left Element and Sum Less Than k  
 [3074](3074). Apple Redistribution into Boxes  
 [3075](3075). Maximize Happiness of Selected Children  
 [3085](3085). Minimum Deletions to Make String K-Special  
