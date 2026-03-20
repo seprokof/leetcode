@@ -572,6 +572,7 @@ Solutions to problems from leetcode.com.
 [3541](3541). Find Most Frequent Vowel and Consonant  
 [3542](3542). Minimum Operations to Convert All Elements to Zero  
 [3550](3550). Smallest Index With Digit Sum Equal to Index  
+[3567](3567). Minimum Absolute Difference in Sliding Submatrix  
 [3577](3577). Count the Number of Computer Unlocking Permutations  
 [3583](3583). Count Special Triplets  
 [3591](3591). Check if Any Element Has Prime Frequency  
