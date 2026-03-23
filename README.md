@@ -467,6 +467,7 @@ Solutions to problems from leetcode.com.
 [2760](2760). Longest Even Odd Subarray With Threshold  
 [2780](2780). Minimum Index of a Valid Split  
 [2785](2785). Sort Vowels in a String  
+[2788](2788). Split Strings by Separator  
 [2799](2799). Count Complete Subarrays in an Array  
 [2828](2828). Check if a String Is an Acronym of Words  
 [2843](2843). Count Symmetric Integers  
