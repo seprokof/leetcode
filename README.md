@@ -574,6 +574,7 @@ Solutions to problems from leetcode.com.
 [3531](3531). Count Covered Buildings  
 [3541](3541). Find Most Frequent Vowel and Consonant  
 [3542](3542). Minimum Operations to Convert All Elements to Zero  
+[3546](3546). Equal Sum Grid Partition I  
 [3550](3550). Smallest Index With Digit Sum Equal to Index  
 [3567](3567). Minimum Absolute Difference in Sliding Submatrix  
 [3577](3577). Count the Number of Computer Unlocking Permutations  
