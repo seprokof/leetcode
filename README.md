@@ -586,5 +586,6 @@ Solutions to problems from leetcode.com.
 [3637](3637). Trionic Array I  
 [3643](3643). Flip Square Submatrix Vertically  
 [3683](3683). Earliest Time to Finish One Task  
+[3684](3684). Maximize Sum of At Most K Distinct Elements  
 [3713](3713). Longest Balanced Substring I  
 [3719](3719). Longest Balanced Subarray I  
