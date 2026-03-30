@@ -472,6 +472,7 @@ Solutions to problems from leetcode.com.
 [2828](2828). Check if a String Is an Acronym of Words  
 [2833](2833). Furthest Point From Origin  
 [2839](2839). Check if Strings Can be Made Equal With Operations I  
+[2840](2840). Check if Strings Can be Made Equal With Operations II  
 [2843](2843). Count Symmetric Integers  
 [2848](2848). Points That Intersect With Cars  
 [2873](2873). Maximum Value of an Ordered Triplet I  
