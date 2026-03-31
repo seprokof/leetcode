@@ -205,6 +205,7 @@ Solutions to problems from leetcode.com.
 [804](804). Unique Morse Code Words  
 [812](812). Largest Triangle Area  
 [821](821). Shortest Distance to a Character  
+[824](824). Goat Latin  
 [830](830). Positions of Large Groups  
 [838](838). Push Dominoes  
 [840](840). Magic Squares In Grid  
