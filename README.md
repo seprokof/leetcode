@@ -344,6 +344,7 @@ Solutions to problems from leetcode.com.
 [1790](1790). Check if One String Swap Can Make Strings Equal  
 [1792](1792). Maximum Average Pass Ratio  
 [1800](1800). Maximum Ascending Subarray Sum  
+[1816](1816). Truncate Sentence  
 [1822](1822). Sign of the Product of an Array  
 [1832](1832). Check if the Sentence Is Pangram  
 [1844](1844). Replace All Digits with Characters  
