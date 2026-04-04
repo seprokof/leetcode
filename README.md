@@ -377,6 +377,7 @@ Solutions to problems from leetcode.com.
 [2048](2048). Next Greater Numerically Balanced Number  
 [2053](2053). Kth Distinct String in an Array  
 [2054](2054). Two Best Non-Overlapping Events  
+[2075](2075). Decode the Slanted Ciphertext  
 [2081](2081). Sum of k-Mirror Numbers  
 [2094](2094). Finding 3-Digit Even Numbers  
 [2095](2095). Delete the Middle Node of a Linked List  
