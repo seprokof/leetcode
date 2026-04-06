@@ -216,6 +216,7 @@ Solutions to problems from leetcode.com.
 [869](869). Reordered Power of 2  
 [872](872). Leaf-Similar Trees  
 [873](873). Length of Longest Fibonacci Subsequence  
+[874](874). Walking Robot Simulation  
 [875](875). Koko Eating Bananas  
 [876](876). Middle of the Linked List  
 [884](884). Uncommon Words from Two Sentences  
