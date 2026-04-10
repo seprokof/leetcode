@@ -603,3 +603,4 @@ Solutions to problems from leetcode.com.
 [3701](3701). Compute Alternating Sum  
 [3713](3713). Longest Balanced Substring I  
 [3719](3719). Longest Balanced Subarray I  
+[3740](3740). Minimum Distance Between Three Equal Elements I  
