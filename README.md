@@ -604,3 +604,5 @@ Solutions to problems from leetcode.com.
 [3713](3713). Longest Balanced Substring I  
 [3719](3719). Longest Balanced Subarray I  
 [3740](3740). Minimum Distance Between Three Equal Elements I  
+[3741](3741). Minimum Distance Between Three Equal Elements II  
+
