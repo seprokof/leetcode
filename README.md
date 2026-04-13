@@ -349,6 +349,7 @@ Solutions to problems from leetcode.com.
 [1822](1822). Sign of the Product of an Array  
 [1832](1832). Check if the Sentence Is Pangram  
 [1844](1844). Replace All Digits with Characters  
+[1848](1848). Minimum Distance to the Target Element  
 [1863](1863). Sum of All Subset XOR Totals  
 [1865](1865). Finding Pairs With a Certain Sum  
 [1877](1877). Minimize Maximum Pair Sum in Array  
