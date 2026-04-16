@@ -580,6 +580,7 @@ Solutions to problems from leetcode.com.
 [3477](3477). Fruits Into Baskets II  
 [3484](3484). Design Spreadsheet  
 [3487](3487). Maximum Unique Subarray Sum After Deletion  
+[3488](3488). Closest Equal Element Queries  
 [3492](3492). Maximum Containers on a Ship  
 [3494](3494). Find the Minimum Amount of Time to Brew Potions  
 [3507](3507). Minimum Pair Removal to Sort Array I  
