@@ -611,3 +611,4 @@ Solutions to problems from leetcode.com.
 [3740](3740). Minimum Distance Between Three Equal Elements I  
 [3741](3741). Minimum Distance Between Three Equal Elements II  
 [3761](3761). Minimum Absolute Distance Between Mirror Pairs  
+[3783](3783). Mirror Distance of an Integer  
