@@ -382,6 +382,7 @@ Solutions to problems from leetcode.com.
 [2054](2054). Two Best Non-Overlapping Events  
 [2069](2069). Walking Robot Simulation II  
 [2075](2075). Decode the Slanted Ciphertext  
+[2078](2078). Two Furthest Houses With Different Colors  
 [2081](2081). Sum of k-Mirror Numbers  
 [2094](2094). Finding 3-Digit Even Numbers  
 [2095](2095). Delete the Middle Node of a Linked List  
