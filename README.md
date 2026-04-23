@@ -469,6 +469,7 @@ Solutions to problems from leetcode.com.
 [2579](2579). Count Total Number of Colored Cells  
 [2582](2582). Pass the Pillow  
 [2594](2594). Minimum Time to Repair Cars  
+[2615](2615). Sum of Distances  
 [2616](2616). Minimize the Maximum Difference of Pairs  
 [2639](2639). Find the Width of Columns of a Grid  
 [2654](2654). Minimum Number of Operations to Make All Array Elements Equal to 1  
