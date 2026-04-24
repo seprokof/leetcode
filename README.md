@@ -369,6 +369,7 @@ Solutions to problems from leetcode.com.
 [1935](1935). Maximum Number of Words You Can Type  
 [1957](1957). Delete Characters to Make Fancy String  
 [1971](1971). Find if Path Exists in Graph  
+[1974](1974). Minimum Time to Type Word Using Special Typewriter  
 [1975](1975). Maximum Matrix Sum  
 [1980](1980). Find Unique Binary String  
 [1984](1984). Minimum Difference Between Highest and Lowest of K Scores  
