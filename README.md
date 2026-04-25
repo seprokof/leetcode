@@ -455,6 +455,7 @@ Solutions to problems from leetcode.com.
 [2503](2503). Maximum Number of Points From Grid Queries  
 [2506](2506). Count Pairs Of Similar Strings  
 [2515](2515). Shortest Distance to Target String in a Circular Array  
+[2520](2520). Count the Digits That Divide a Number  
 [2523](2523). Closest Prime Numbers in Range  
 [2529](2529). Maximum Count of Positive Integer and Negative Integer  
 [2536](2536). Increment Submatrices by One  
