@@ -314,6 +314,7 @@ Solutions to problems from leetcode.com.
 [1536](1536). Minimum Swaps to Arrange a Binary Grid  
 [1545](1545). Find Kth Bit in Nth Binary String  
 [1550](1550). Three Consecutive Odds  
+[1559](1559). Detect Cycles in 2D Grid  
 [1578](1578). Minimum Time to Make Rope Colorful  
 [1582](1582). Special Positions in a Binary Matrix  
 [1590](1590). Make Sum Divisible by P  
