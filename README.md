@@ -383,6 +383,7 @@ Solutions to problems from leetcode.com.
 [2048](2048). Next Greater Numerically Balanced Number  
 [2053](2053). Kth Distinct String in an Array  
 [2054](2054). Two Best Non-Overlapping Events  
+[2068](2068). Check Whether Two Strings are Almost Equivalent  
 [2069](2069). Walking Robot Simulation II  
 [2075](2075). Decode the Slanted Ciphertext  
 [2078](2078). Two Furthest Houses With Different Colors  
