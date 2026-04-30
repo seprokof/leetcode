@@ -435,6 +435,7 @@ Solutions to problems from leetcode.com.
 [2325](2325). Decode the Message  
 [2336](2336). Smallest Number in Infinite Set  
 [2342](2342). Max Sum of a Pair With Equal Sum of Digits  
+[2347](2347). Best Poker Hand  
 [2348](2348). Number of Zero-Filled Subarrays  
 [2349](2349). Design a Number Container System  
 [2352](2352). Equal Row and Column Pairs  
