@@ -116,6 +116,7 @@ Solutions to problems from leetcode.com.
 [389](389). Find the Difference  
 [392](392). Is Subsequence  
 [394](394). Decode String  
+[396](396). Rotate Function  
 [399](399). Evaluate Division  
 [401](401). Binary Watch  
 [404](404). Sum of Left Leaves  
