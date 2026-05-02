@@ -200,6 +200,7 @@ Solutions to problems from leetcode.com.
 [778](778). Swim in Rising Water  
 [781](781). Rabbits in Forest  
 [783](783). Minimum Distance Between BST Nodes  
+[788](788). Rotated Digits  
 [790](790). Domino and Tromino Tiling  
 [796](796). Rotate String  
 [799](799). Champagne Tower  
