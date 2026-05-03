@@ -522,6 +522,7 @@ Solutions to problems from leetcode.com.
 [3024](3024). Type of Triangle  
 [3025](3025). Find the Number of Ways to Place People I  
 [3027](3027). Find the Number of Ways to Place People II  
+[3028](3028). Ant on the Boundary  
 [3047](3047). Find the Largest Area of Square Inside Two Rectangles  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3070](3070). Count Submatrices with Top-Left Element and Sum Less Than k  
