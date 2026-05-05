@@ -30,6 +30,7 @@ Solutions to problems from leetcode.com.
 [55](55). Jump Game  
 [56](56). Merge Intervals  
 [58](58). Length of Last Word  
+[61](61). Rotate List  
 [66](66). Plus One  
 [67](67). Add Binary  
 [69](69). Sqrt(x)  
