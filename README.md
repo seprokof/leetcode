@@ -357,6 +357,7 @@ Solutions to problems from leetcode.com.
 [1844](1844). Replace All Digits with Characters  
 [1848](1848). Minimum Distance to the Target Element  
 [1855](1855). Maximum Distance Between a Pair of Values  
+[1861](1861). Rotating the Box  
 [1863](1863). Sum of All Subset XOR Totals  
 [1865](1865). Finding Pairs With a Certain Sum  
 [1877](1877). Minimize Maximum Pair Sum in Array  
