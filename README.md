@@ -475,6 +475,7 @@ Solutions to problems from leetcode.com.
 [2542](2542). Maximum Subsequence Score  
 [2544](2544). Alternating Digit Sum  
 [2551](2551). Put Marbles in Bags  
+[2553](2553). Separate the Digits in an Array  
 [2560](2560). House Robber IV  
 [2563](2563). Count the Number of Fair Pairs  
 [2566](2566). Maximum Difference by Remapping a Digit  
