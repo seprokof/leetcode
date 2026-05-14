@@ -388,6 +388,7 @@ Solutions to problems from leetcode.com.
 [2032](2032). Two Out of Three  
 [2033](2033). Minimum Operations to Make a Uni-Value Grid  
 [2043](2043). Simple Bank System  
+[2047](2047). Number of Valid Words in a Sentence  
 [2048](2048). Next Greater Numerically Balanced Number  
 [2053](2053). Kth Distinct String in an Array  
 [2054](2054). Two Best Non-Overlapping Events  
