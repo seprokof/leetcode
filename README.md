@@ -242,6 +242,7 @@ Solutions to problems from leetcode.com.
 [976](976). Largest Perimeter Triangle  
 [977](977). Squares of a Sorted Array  
 [994](994). Rotting Oranges  
+[997](997). Find the Town Judge  
 [1002](1002). Find Common Characters  
 [1004](1004). Max Consecutive Ones III  
 [1005](1005). Maximize Sum Of Array After K Negations  
