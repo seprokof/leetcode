@@ -490,6 +490,7 @@ Solutions to problems from leetcode.com.
 [2579](2579). Count Total Number of Colored Cells  
 [2582](2582). Pass the Pillow  
 [2594](2594). Minimum Time to Repair Cars  
+[2609](2609). Find the Longest Balanced Substring of a Binary String  
 [2615](2615). Sum of Distances  
 [2616](2616). Minimize the Maximum Difference of Pairs  
 [2639](2639). Find the Width of Columns of a Grid  
