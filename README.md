@@ -431,6 +431,7 @@ Solutions to problems from leetcode.com.
 [2215](2215). Find the Difference of Two Arrays  
 [2221](2221). Find Triangular Sum of an Array  
 [2226](2226). Maximum Candies Allocated to K Children  
+[2231](2231). Largest Number After Digit Swaps by Parity  
 [2236](2236). Root Equals Sum of Children  
 [2239](2239). Find Closest Number to Zero  
 [2248](2248). Intersection of Multiple Arrays  
