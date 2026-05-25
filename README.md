@@ -532,6 +532,7 @@ Solutions to problems from leetcode.com.
 [2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
 [2965](2965). Find Missing and Repeated Values  
 [2966](2966). Divide Array Into Arrays With Max Difference  
+[2974](2974). Minimum Number Game  
 [2975](2975). Maximum Square Area by Removing Fences From a Field  
 [2996](2996). Smallest Missing Integer Greater Than Sequential Prefix Sum  
 [3000](3000). Maximum Area of Longest Diagonal Rectangle  
