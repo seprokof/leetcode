@@ -554,6 +554,7 @@ Solutions to problems from leetcode.com.
 [3100](3100). Water Bottles II  
 [3105](3105). Longest Strictly Increasing or Strictly Decreasing Subarray  
 [3120](3120). Count the Number of Special Characters I  
+[3121](3121). Count the Number of Special Characters II  
 [3131](3131). Find the Integer Added to Array I  
 [3136](3136). Valid Word  
 [3142](3142). Check if Grid Satisfies Conditions  
