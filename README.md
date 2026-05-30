@@ -511,6 +511,7 @@ Solutions to problems from leetcode.com.
 [2788](2788). Split Strings by Separator  
 [2799](2799). Count Complete Subarrays in an Array  
 [2810](2810). Faulty Keyboard  
+[2824](2824). Count Pairs Whose Sum is Less than Target  
 [2828](2828). Check if a String Is an Acronym of Words  
 [2833](2833). Furthest Point From Origin  
 [2839](2839). Check if Strings Can be Made Equal With Operations I  
