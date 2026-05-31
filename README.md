@@ -411,6 +411,7 @@ Solutions to problems from leetcode.com.
 [2110](2110). Number of Smooth Descent Periods of a Stock  
 [2115](2115). Find All Possible Recipes from Given Supplies  
 [2125](2125). Number of Laser Beams in a Bank  
+[2126](2126). Destroying Asteroids  
 [2130](2130). Maximum Twin Sum of a Linked List  
 [2131](2131). Longest Palindrome by Concatenating Two Letter Words  
 [2138](2138). Divide a String Into Groups of Size k  
