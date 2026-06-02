@@ -641,6 +641,7 @@ Solutions to problems from leetcode.com.
 [3602](3602). Hexadecimal and Hexatrigesimal Conversion  
 [3606](3606). Coupon Code Validator  
 [3623](3623). Count Number of Trapezoids I  
+[3633](3633). Earliest Finish Time for Land and Water Rides I  
 [3634](3634). Minimum Removals to Balance Array  
 [3637](3637). Trionic Array I  
 [3643](3643). Flip Square Submatrix Vertically  
