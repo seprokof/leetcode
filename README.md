@@ -491,6 +491,7 @@ Solutions to problems from leetcode.com.
 [2563](2563). Count the Number of Fair Pairs  
 [2566](2566). Maximum Difference by Remapping a Digit  
 [2570](2570). Merge Two 2D Arrays by Summing Values  
+[2574](2574). Left and Right Sum Differences  
 [2579](2579). Count Total Number of Colored Cells  
 [2582](2582). Pass the Pillow  
 [2594](2594). Minimum Time to Repair Cars  
