@@ -425,6 +425,7 @@ Solutions to problems from leetcode.com.
 [2169](2169). Count Operations to Obtain Zero  
 [2176](2176). Count Equal and Divisible Pairs in an Array  
 [2185](2185). Counting Words With a Given Prefix  
+[2196](2196). Create Binary Tree From Descriptions  
 [2197](2197). Replace Non-Coprime Numbers in Array  
 [2200](2200). Find All K-Distant Indices in an Array  
 [2206](2206). Divide Array Into Equal Pairs  
