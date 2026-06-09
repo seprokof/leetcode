@@ -652,6 +652,7 @@ Solutions to problems from leetcode.com.
 [3653](3653). XOR After Range Multiplication Queries I  
 [3683](3683). Earliest Time to Finish One Task  
 [3684](3684). Maximize Sum of At Most K Distinct Elements  
+[3689](3689). Maximum Total Subarray Value I  
 [3692](3692). Majority Frequency Characters  
 [3701](3701). Compute Alternating Sum  
 [3713](3713). Longest Balanced Substring I  
