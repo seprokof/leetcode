@@ -598,6 +598,7 @@ Solutions to problems from leetcode.com.
 [3318](3318). Find X-Sum of All K-Long Subarrays I  
 [3330](3330). Find the Original Typed String I  
 [3335](3335). Total Characters in String After Transformations I  
+[3340](3340). Check Balanced String  
 [3341](3341). Find Minimum Time to Reach Last Room I  
 [3342](3342). Find Minimum Time to Reach Last Room II  
 [3349](3349). Adjacent Increasing Subarrays Detection I  
