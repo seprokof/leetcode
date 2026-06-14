@@ -558,6 +558,7 @@ Solutions to problems from leetcode.com.
 [3070](3070). Count Submatrices with Top-Left Element and Sum Less Than k  
 [3074](3074). Apple Redistribution into Boxes  
 [3075](3075). Maximize Happiness of Selected Children  
+[3079](3079). Find the Sum of Encrypted Integers  
 [3085](3085). Minimum Deletions to Make String K-Special  
 [3095](3095). Shortest Subarray With OR at Least K I  
 [3100](3100). Water Bottles II  
