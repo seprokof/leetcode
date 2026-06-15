@@ -506,6 +506,7 @@ Solutions to problems from leetcode.com.
 [2656](2656). Maximum Sum With Exactly K Elements  
 [2657](2657). Find the Prefix Common Array of Two Arrays  
 [2678](2678). Number of Senior Citizens  
+[2682](2682). Find the Losers of the Circular Game  
 [2685](2685). Count the Number of Complete Components  
 [2698](2698). Find the Punishment Number of an Integer  
 [2744](2744). Find Maximum Number of String Pairs  
