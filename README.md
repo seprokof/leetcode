@@ -648,6 +648,7 @@ Solutions to problems from leetcode.com.
 [3591](3591). Check if Any Element Has Prime Frequency  
 [3602](3602). Hexadecimal and Hexatrigesimal Conversion  
 [3606](3606). Coupon Code Validator  
+[3612](3612). Process String with Special Operations I  
 [3623](3623). Count Number of Trapezoids I  
 [3633](3633). Earliest Finish Time for Land and Water Rides I  
 [3634](3634). Minimum Removals to Balance Array  
