@@ -585,6 +585,7 @@ Solutions to problems from leetcode.com.
 [3206](3206). Alternating Groups I  
 [3208](3208). Alternating Groups II  
 [3212](3212). Count Submatrices With Equal Frequency of X and Y  
+[3216](3216). Lexicographically Smallest String After a Swap  
 [3217](3217). Delete Nodes From Linked List Present in Array  
 [3227](3227). Vowels Game in a String  
 [3228](3228). Maximum Number of Operations to Move Ones to the End  
