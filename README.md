@@ -503,6 +503,7 @@ Solutions to problems from leetcode.com.
 [2615](2615). Sum of Distances  
 [2616](2616). Minimize the Maximum Difference of Pairs  
 [2639](2639). Find the Width of Columns of a Grid  
+[2651](2651). Calculate Delayed Arrival Time  
 [2654](2654). Minimum Number of Operations to Make All Array Elements Equal to 1  
 [2656](2656). Maximum Sum With Exactly K Elements  
 [2657](2657). Find the Prefix Common Array of Two Arrays  
