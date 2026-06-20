@@ -394,6 +394,7 @@ Solutions to problems from leetcode.com.
 [2016](2016). Maximum Difference Between Increasing Elements  
 [2032](2032). Two Out of Three  
 [2033](2033). Minimum Operations to Make a Uni-Value Grid  
+[2042](2042). Check if Numbers Are Ascending in a Sentence  
 [2043](2043). Simple Bank System  
 [2047](2047). Number of Valid Words in a Sentence  
 [2048](2048). Next Greater Numerically Balanced Number  
