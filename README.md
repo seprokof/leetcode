@@ -361,6 +361,7 @@ Solutions to problems from leetcode.com.
 [1816](1816). Truncate Sentence  
 [1822](1822). Sign of the Product of an Array  
 [1832](1832). Check if the Sentence Is Pangram  
+[1833](1833). Maximum Ice Cream Bars  
 [1844](1844). Replace All Digits with Characters  
 [1848](1848). Minimum Distance to the Target Element  
 [1855](1855). Maximum Distance Between a Pair of Values  
