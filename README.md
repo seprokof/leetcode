@@ -264,6 +264,7 @@ Solutions to problems from leetcode.com.
 [1128](1128). Number of Equivalent Domino Pairs  
 [1137](1137). N-th Tribonacci Number  
 [1143](1143). Longest Common Subsequence  
+[1154](1154). Day of the Year  
 [1160](1160). Find Words That Can Be Formed by Characters  
 [1161](1161). Maximum Level Sum of a Binary Tree  
 [1189](1189). Maximum Number of Balloons  
