@@ -374,6 +374,7 @@ Solutions to problems from leetcode.com.
 [1878](1878). Get Biggest Three Rhombus Sums in a Grid  
 [1886](1886). Determine Whether Matrix Can Be Obtained By Rotation  
 [1895](1895). Largest Magic Square  
+[1897](1897). Redistribute Characters to Make All Strings Equal  
 [1903](1903). Largest Odd Number in String  
 [1910](1910). Remove All Occurrences of a Substring  
 [1912](1912). Design Movie Rental System  
