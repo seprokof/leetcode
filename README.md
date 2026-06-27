@@ -681,3 +681,4 @@ Solutions to problems from leetcode.com.
 [3827](3827). Count Monobit Integers  
 [3833](3833). Count Dominant Indices  
 [3838](3838). Weighted Word Mapping  
+[3931](3931). Check Adjacent Digit Differences  
