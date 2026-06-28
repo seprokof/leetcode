@@ -365,6 +365,7 @@ Solutions to problems from leetcode.com.
 [1832](1832). Check if the Sentence Is Pangram  
 [1833](1833). Maximum Ice Cream Bars  
 [1844](1844). Replace All Digits with Characters  
+[1846](1846). Maximum Element After Decreasing and Rearranging  
 [1848](1848). Minimum Distance to the Target Element  
 [1855](1855). Maximum Distance Between a Pair of Values  
 [1861](1861). Rotating the Box  
