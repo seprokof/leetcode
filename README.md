@@ -194,6 +194,7 @@ Solutions to problems from leetcode.com.
 [744](744). Find Smallest Letter Greater Than Target  
 [746](746). Min Cost Climbing Stairs  
 [747](747). Largest Number At Least Twice of Others  
+[748](748). Shortest Completing Word  
 [756](756). Pyramid Transition Matrix  
 [757](757). Set Intersection Size At Least Two  
 [761](761). Special Binary String  
