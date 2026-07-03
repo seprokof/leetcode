@@ -334,6 +334,7 @@ Solutions to problems from leetcode.com.
 [1590](1590). Make Sum Divisible by P  
 [1592](1592). Rearrange Spaces Between Words  
 [1614](1614). Maximum Nesting Depth of the Parentheses  
+[1624](1624). Largest Substring Between Two Equal Characters  
 [1636](1636). Sort Array by Increasing Frequency  
 [1652](1652). Defuse the Bomb  
 [1653](1653). Minimum Deletions to Make String Balanced  
