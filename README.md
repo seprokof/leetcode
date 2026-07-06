@@ -278,6 +278,7 @@ Solutions to problems from leetcode.com.
 [1262](1262). Greatest Sum Divisible by Three  
 [1266](1266). Minimum Time Visiting All Points  
 [1268](1268). Search Suggestions System  
+[1288](1288). Remove Covered Intervals  
 [1290](1290). Convert Binary Number in a Linked List to Integer  
 [1292](1292). Maximum Side Length of a Square with Sum Less than or Equal to Threshold  
 [1295](1295). Find Numbers with Even Number of Digits  
