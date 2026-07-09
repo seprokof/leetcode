@@ -655,6 +655,7 @@ Solutions to problems from leetcode.com.
 [3512](3512). Minimum Operations to Make Array Sum Divisible by K  
 [3516](3516). Find Closest Person  
 [3531](3531). Count Covered Buildings  
+[3532](3532). Path Existence Queries in a Graph I  
 [3541](3541). Find Most Frequent Vowel and Consonant  
 [3542](3542). Minimum Operations to Convert All Elements to Zero  
 [3546](3546). Equal Sum Grid Partition I  
