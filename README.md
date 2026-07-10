@@ -454,6 +454,7 @@ Solutions to problems from leetcode.com.
 [2239](2239). Find Closest Number to Zero  
 [2248](2248). Intersection of Multiple Arrays  
 [2257](2257). Count Unguarded Cells in the Grid  
+[2259](2259). Remove Digit From Number to Maximize Result  
 [2264](2264). Largest 3-Same-Digit Number in String  
 [2273](2273). Find Resultant Array After Removing Anagrams  
 [2278](2278). Percentage of Letter in String  
