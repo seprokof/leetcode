@@ -289,6 +289,7 @@ Solutions to problems from leetcode.com.
 [1313](1313). Decompress Run-Length Encoded List  
 [1317](1317). Convert Integer to the Sum of Two No-Zero Integers  
 [1323](1323). Maximum 69 Number  
+[1331](1331). Rank Transform of an Array  
 [1339](1339). Maximum Product of Splitted Binary Tree  
 [1344](1344). Angle Between Hands of a Clock  
 [1346](1346). Check If N and Its Double Exist  
