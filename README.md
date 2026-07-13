@@ -280,6 +280,7 @@ Solutions to problems from leetcode.com.
 [1268](1268). Search Suggestions System  
 [1288](1288). Remove Covered Intervals  
 [1290](1290). Convert Binary Number in a Linked List to Integer  
+[1291](1291). Sequential Digits  
 [1292](1292). Maximum Side Length of a Square with Sum Less than or Equal to Threshold  
 [1295](1295). Find Numbers with Even Number of Digits  
 [1298](1298). Maximum Candies You Can Get from Boxes  
