@@ -678,6 +678,7 @@ Solutions to problems from leetcode.com.
 [3637](3637). Trionic Array I  
 [3643](3643). Flip Square Submatrix Vertically  
 [3653](3653). XOR After Range Multiplication Queries I  
+[3658](3658). GCD of Odd and Even Sums  
 [3663](3663). Find The Least Frequent Digit  
 [3683](3683). Earliest Time to Finish One Task  
 [3684](3684). Maximize Sum of At Most K Distinct Elements  
