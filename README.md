@@ -400,6 +400,7 @@ Solutions to problems from leetcode.com.
 [1971](1971). Find if Path Exists in Graph  
 [1974](1974). Minimum Time to Type Word Using Special Typewriter  
 [1975](1975). Maximum Matrix Sum  
+[1979](1979). Find Greatest Common Divisor of Array  
 [1980](1980). Find Unique Binary String  
 [1984](1984). Minimum Difference Between Highest and Lowest of K Scores  
 [1991](1991). Find the Middle Index in Array  
