@@ -259,6 +259,7 @@ Solutions to problems from leetcode.com.
 [1051](1051). Height Checker  
 [1071](1071). Greatest Common Divisor of Strings  
 [1079](1079). Letter Tile Possibilities  
+[1081](1081). Smallest Subsequence of Distinct Characters  
 [1089](1089). Duplicate Zeros  
 [1108](1108). Defanging an IP Address  
 [1122](1122). Relative Sort Array  
