@@ -275,6 +275,7 @@ Solutions to problems from leetcode.com.
 [1207](1207). Unique Number of Occurrences  
 [1221](1221). Split a String in Balanced Strings  
 [1233](1233). Remove Sub-Folders from the Filesystem  
+[1260](1260). Shift 2D Grid  
 [1261](1261). Find Elements in a Contaminated Binary Tree  
 [1262](1262). Greatest Sum Divisible by Three  
 [1266](1266). Minimum Time Visiting All Points  
