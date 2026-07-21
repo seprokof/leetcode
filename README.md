@@ -658,6 +658,7 @@ Solutions to problems from leetcode.com.
 [3488](3488). Closest Equal Element Queries  
 [3492](3492). Maximum Containers on a Ship  
 [3494](3494). Find the Minimum Amount of Time to Brew Potions  
+[3499](3499). Maximize Active Section with Trade I  
 [3507](3507). Minimum Pair Removal to Sort Array I  
 [3508](3508). Implement Router  
 [3512](3512). Minimum Operations to Make Array Sum Divisible by K  
