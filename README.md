@@ -343,6 +343,7 @@ Solutions to problems from leetcode.com.
 [1614](1614). Maximum Nesting Depth of the Parentheses  
 [1624](1624). Largest Substring Between Two Equal Characters  
 [1636](1636). Sort Array by Increasing Frequency  
+[1646](1646). Get Maximum in Generated Array  
 [1652](1652). Defuse the Bomb  
 [1653](1653). Minimum Deletions to Make String Balanced  
 [1657](1657). Determine if Two Strings Are Close  
