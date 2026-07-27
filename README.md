@@ -218,6 +218,7 @@ Solutions to problems from leetcode.com.
 [841](841). Keys and Rooms  
 [859](859). Buddy Strings  
 [865](865). Smallest Subtree with all the Deepest Nodes  
+[867](867). Transpose Matrix  
 [868](868). Binary Gap  
 [869](869). Reordered Power of 2  
 [872](872). Leaf-Similar Trees  
