@@ -667,6 +667,7 @@ Solutions to problems from leetcode.com.
 [3508](3508). Implement Router  
 [3512](3512). Minimum Operations to Make Array Sum Divisible by K  
 [3516](3516). Find Closest Person  
+[3517](3517). Smallest Palindromic Rearrangement I  
 [3531](3531). Count Covered Buildings  
 [3532](3532). Path Existence Queries in a Graph I  
 [3536](3536). Maximum Product of Two Digits  
