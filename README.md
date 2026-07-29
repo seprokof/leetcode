@@ -581,6 +581,7 @@ Solutions to problems from leetcode.com.
 [3043](3043). Find the Length of the Longest Common Prefix  
 [3046](3046). Split the Array  
 [3047](3047). Find the Largest Area of Square Inside Two Rectangles  
+[3065](3065). Minimum Operations to Exceed Threshold Value I  
 [3066](3066). Minimum Operations to Exceed Threshold Value II  
 [3070](3070). Count Submatrices with Top-Left Element and Sum Less Than k  
 [3074](3074). Apple Redistribution into Boxes  
