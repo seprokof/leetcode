@@ -574,6 +574,7 @@ Solutions to problems from leetcode.com.
 [3005](3005). Count Elements With Maximum Frequency  
 [3010](3010). Divide an Array Into Subarrays With Minimum Cost I  
 [3014](3014). Minimum Number of Pushes to Type Word I  
+[3016](3016). Minimum Number of Pushes to Type Word II  
 [3021](3021). Alice and Bob Playing Flower Game  
 [3024](3024). Type of Triangle  
 [3025](3025). Find the Number of Ways to Place People I  
