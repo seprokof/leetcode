@@ -226,6 +226,7 @@ Solutions to problems from leetcode.com.
 [874](874). Walking Robot Simulation  
 [875](875). Koko Eating Bananas  
 [876](876). Middle of the Linked List  
+[877](877). Stone Game  
 [884](884). Uncommon Words from Two Sentences  
 [889](889). Construct Binary Tree from Preorder and Postorder Traversal  
 [896](896). Monotonic Array  
