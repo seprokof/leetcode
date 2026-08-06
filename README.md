@@ -639,6 +639,7 @@ Solutions to problems from leetcode.com.
 [3340](3340). Check Balanced String  
 [3341](3341). Find Minimum Time to Reach Last Room I  
 [3342](3342). Find Minimum Time to Reach Last Room II  
+[3345](3345). Smallest Divisible Digit Product I  
 [3349](3349). Adjacent Increasing Subarrays Detection I  
 [3354](3354). Make Array Elements Equal to Zero  
 [3355](3355). Zero Array Transformation I  
