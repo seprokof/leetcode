@@ -28,7 +28,7 @@ class Solution {
         }
         Arrays.sort(frequency);
         int result = 0;
-        for (int i = 25, j = 0; i >= 0; i--) {
+        for (int i = 25; i >= 0; i--) {
             result += frequency[i] * ((25 - i) / 8 + 1);
         }
         return result;
