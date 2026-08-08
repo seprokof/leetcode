@@ -628,6 +628,7 @@ Solutions to problems from leetcode.com.
 [3248](3248). Snake in Matrix  
 [3264](3264). Final Array State After K Multiplication Operations I  
 [3270](3270). Find the Key of the Numbers  
+[3280](3280). Convert Date to Binary  
 [3285](3285). Find Indices of Stable Mountains  
 [3289](3289). The Two Sneaky Numbers of Digitville  
 [3300](3300). Minimum Element After Replacement With Digit Sum  
