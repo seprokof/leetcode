@@ -289,6 +289,7 @@ Solutions to problems from leetcode.com.
 [1292](1292). Maximum Side Length of a Square with Sum Less than or Equal to Threshold  
 [1295](1295). Find Numbers with Even Number of Digits  
 [1298](1298). Maximum Candies You Can Get from Boxes  
+[1299](1299). Replace Elements with Greatest Element on Right Side  
 [1304](1304). Find N Unique Integers Sum up to Zero  
 [1306](1306). Jump Game III  
 [1309](1309). Decrypt String from Alphabet to Integer Mapping  
