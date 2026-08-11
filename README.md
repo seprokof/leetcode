@@ -726,3 +726,4 @@ Solutions to problems from leetcode.com.
 [3867](3867). Sum of GCD of Formed Pairs  
 [3880](3880). Minimum Absolute Difference Between Two Values  
 [3931](3931). Check Adjacent Digit Differences  
+[4010](4010). Maximize Pair Strength Using GCD  
