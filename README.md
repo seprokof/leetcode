@@ -570,6 +570,7 @@ Solutions to problems from leetcode.com.
 [2943](2943). Maximize Area of Square Hole in Grid  
 [2946](2946). Matrix Similarity After Cyclic Shifts  
 [2951](2951). Find the Peaks  
+[2958](2958). Length of Longest Subarray With at Most K Frequency  
 [2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
 [2965](2965). Find Missing and Repeated Values  
 [2966](2966). Divide Array Into Arrays With Max Difference  
