@@ -527,6 +527,7 @@ Solutions to problems from leetcode.com.
 [2579](2579). Count Total Number of Colored Cells  
 [2582](2582). Pass the Pillow  
 [2594](2594). Minimum Time to Repair Cars  
+[2605](2605). Form Smallest Number From Two Digit Arrays  
 [2609](2609). Find the Longest Balanced Substring of a Binary String  
 [2614](2614). Prime In Diagonal  
 [2615](2615). Sum of Distances  
