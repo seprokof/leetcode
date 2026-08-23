@@ -462,6 +462,7 @@ Solutions to problems from leetcode.com.
 [2210](2210). Count Hills and Valleys in an Array  
 [2211](2211). Count Collisions on a Road  
 [2215](2215). Find the Difference of Two Arrays  
+[2220](2220). Minimum Bit Flips to Convert Number  
 [2221](2221). Find Triangular Sum of an Array  
 [2226](2226). Maximum Candies Allocated to K Children  
 [2231](2231). Largest Number After Digit Swaps by Parity  
