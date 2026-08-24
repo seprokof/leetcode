@@ -508,6 +508,7 @@ Solutions to problems from leetcode.com.
 [2455](2455). Average Value of Even Numbers That Are Divisible by Three  
 [2460](2460). Apply Operations to an Array  
 [2462](2462). Total Cost to Hire K Workers  
+[2465](2465). Number of Distinct Averages  
 [2483](2483). Minimum Penalty for a Shop  
 [2503](2503). Maximum Number of Points From Grid Queries  
 [2506](2506). Count Pairs Of Similar Strings  
