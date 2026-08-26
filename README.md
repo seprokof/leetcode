@@ -569,6 +569,7 @@ Solutions to problems from leetcode.com.
 [2899](2899). Last Visited Integers  
 [2900](2900). Longest Unequal Adjacent Groups Subsequence I  
 [2901](2901). Longest Unequal Adjacent Groups Subsequence II  
+[2904](2904). Shortest and Lexicographically Smallest Beautiful String  
 [2908](2908). Minimum Sum of Mountain Triplets I  
 [2918](2918). Minimum Equal Sum of Two Arrays After Replacing Zeros  
 [2928](2928). Distribute Candies Among Children I  
