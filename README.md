@@ -726,6 +726,7 @@ Solutions to problems from leetcode.com.
 [3713](3713). Longest Balanced Substring I  
 [3718](3718). Smallest Missing Multiple of K  
 [3719](3719). Longest Balanced Subarray I  
+[3720](3720). Lexicographically Smallest Permutation Greater Than Target  
 [3731](3731). Find Missing Elements  
 [3737](3737). Count Subarrays With Majority Element I  
 [3740](3740). Minimum Distance Between Three Equal Elements I  
