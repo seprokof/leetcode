@@ -406,6 +406,7 @@ Solutions to problems from leetcode.com.
 [1929](1929). Concatenation of Array  
 [1930](1930). Unique Length-3 Palindromic Subsequences  
 [1935](1935). Maximum Number of Words You Can Type  
+[1945](1945). Sum of Digits of String After Convert  
 [1957](1957). Delete Characters to Make Fancy String  
 [1967](1967). Number of Strings That Appear as Substrings in Word  
 [1971](1971). Find if Path Exists in Graph  
