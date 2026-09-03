@@ -746,6 +746,7 @@ Solutions to problems from leetcode.com.
 [3838](3838). Weighted Word Mapping  
 [3867](3867). Sum of GCD of Formed Pairs  
 [3875](3875). Construct Uniform Parity Array I  
+[3876](3876). Construct Uniform Parity Array II  
 [3880](3880). Minimum Absolute Difference Between Two Values  
 [3931](3931). Check Adjacent Digit Differences  
 [4010](4010). Maximize Pair Strength Using GCD  
