@@ -749,5 +749,6 @@ Solutions to problems from leetcode.com.
 [3876](3876). Construct Uniform Parity Array II  
 [3880](3880). Minimum Absolute Difference Between Two Values  
 [3903](3903). Smallest Stable Index I  
+[3904](3904). Smallest Stable Index II  
 [3931](3931). Check Adjacent Digit Differences  
 [4010](4010). Maximize Pair Strength Using GCD  
