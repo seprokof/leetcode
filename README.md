@@ -706,6 +706,7 @@ Solutions to problems from leetcode.com.
 [3550](3550). Smallest Index With Digit Sum Equal to Index  
 [3567](3567). Minimum Absolute Difference in Sliding Submatrix  
 [3577](3577). Count the Number of Computer Unlocking Permutations  
+[3582](3582). Generate Tag for Video Caption  
 [3583](3583). Count Special Triplets  
 [3591](3591). Check if Any Element Has Prime Frequency  
 [3602](3602). Hexadecimal and Hexatrigesimal Conversion  
