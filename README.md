@@ -747,6 +747,7 @@ Solutions to problems from leetcode.com.
 [3833](3833). Count Dominant Indices  
 [3838](3838). Weighted Word Mapping  
 [3867](3867). Sum of GCD of Formed Pairs  
+[3870](3870). Count Commas in Range  
 [3875](3875). Construct Uniform Parity Array I  
 [3876](3876). Construct Uniform Parity Array II  
 [3880](3880). Minimum Absolute Difference Between Two Values  
