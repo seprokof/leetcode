@@ -476,6 +476,7 @@ Solutions to problems from leetcode.com.
 [2257](2257). Count Unguarded Cells in the Grid  
 [2259](2259). Remove Digit From Number to Maximize Result  
 [2264](2264). Largest 3-Same-Digit Number in String  
+[2265](2265). Count Nodes Equal to Average of Subtree  
 [2273](2273). Find Resultant Array After Removing Anagrams  
 [2278](2278). Percentage of Letter in String  
 [2283](2283). Check if Number Has Equal Digit Count and Digit Value  
