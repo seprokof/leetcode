@@ -686,6 +686,7 @@ Solutions to problems from leetcode.com.
 [3461](3461). Check If Digits Are Equal in String After Operations I  
 [3471](3471). Find the Largest Almost Missing Integer  
 [3477](3477). Fruits Into Baskets II  
+[3483](3483). Unique 3-Digit Even Numbers  
 [3484](3484). Design Spreadsheet  
 [3487](3487). Maximum Unique Subarray Sum After Deletion  
 [3488](3488). Closest Equal Element Queries  
