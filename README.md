@@ -743,6 +743,7 @@ Solutions to problems from leetcode.com.
 [3751](3751). Total Waviness of Numbers in Range I  
 [3754](3754). Concatenate Non-Zero Digits and Multiply by Sum I  
 [3761](3761). Minimum Absolute Distance Between Mirror Pairs  
+[3774](3774). Absolute Difference Between Maximum and Minimum K Elements  
 [3783](3783). Mirror Distance of an Integer  
 [3794](3794). Reverse String Prefix  
 [3827](3827). Count Monobit Integers  
