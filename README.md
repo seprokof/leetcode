@@ -213,6 +213,7 @@ Solutions to problems from leetcode.com.
 [821](821). Shortest Distance to a Character  
 [824](824). Goat Latin  
 [830](830). Positions of Large Groups  
+[836](836). Rectangle Overlap  
 [838](838). Push Dominoes  
 [840](840). Magic Squares In Grid  
 [841](841). Keys and Rooms  
