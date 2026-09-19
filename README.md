@@ -398,6 +398,7 @@ Solutions to problems from leetcode.com.
 [1895](1895). Largest Magic Square  
 [1897](1897). Redistribute Characters to Make All Strings Equal  
 [1903](1903). Largest Odd Number in String  
+[1909](1909). Remove One Element to Make the Array Strictly Increasing  
 [1910](1910). Remove All Occurrences of a Substring  
 [1912](1912). Design Movie Rental System  
 [1913](1913). Maximum Product Difference Between Two Pairs  
