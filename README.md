@@ -521,6 +521,7 @@ Solutions to problems from leetcode.com.
 [2462](2462). Total Cost to Hire K Workers  
 [2465](2465). Number of Distinct Averages  
 [2483](2483). Minimum Penalty for a Shop  
+[2496](2496). Maximum Value of a String in an Array  
 [2503](2503). Maximum Number of Points From Grid Queries  
 [2506](2506). Count Pairs Of Similar Strings  
 [2515](2515). Shortest Distance to Target String in a Circular Array  
