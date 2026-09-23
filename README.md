@@ -356,6 +356,7 @@ Solutions to problems from leetcode.com.
 [1652](1652). Defuse the Bomb  
 [1653](1653). Minimum Deletions to Make String Balanced  
 [1657](1657). Determine if Two Strings Are Close  
+[1658](1658). Minimum Operations to Reduce X to Zero  
 [1665](1665). Minimum Initial Energy to Finish Tasks  
 [1678](1678). Goal Parser Interpretation  
 [1679](1679). Max Number of K-Sum Pairs  
