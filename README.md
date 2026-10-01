@@ -638,6 +638,7 @@ Solutions to problems from leetcode.com.
 [3151](3151). Special Array I  
 [3152](3152). Special Array II  
 [3160](3160). Find the Number of Distinct Colors Among the Balls  
+[3168](3168). Minimum Number of Chairs in a Waiting Room  
 [3169](3169). Count Days Without Meetings  
 [3170](3170). Lexicographically Minimum String After Removing Stars  
 [3174](3174). Clear Digits  
