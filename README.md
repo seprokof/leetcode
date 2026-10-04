@@ -179,6 +179,7 @@ Solutions to problems from leetcode.com.
 [645](645). Set Mismatch  
 [649](649). Dota2 Senate  
 [657](657). Robot Return to Origin  
+[678](678). Valid Parenthesis String  
 [682](682). Baseball Game  
 [693](693). Binary Number with Alternating Bits  
 [696](696). Count Binary Substrings  
