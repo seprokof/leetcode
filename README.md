@@ -220,6 +220,7 @@ Solutions to problems from leetcode.com.
 [838](838). Push Dominoes  
 [840](840). Magic Squares In Grid  
 [841](841). Keys and Rooms  
+[856](856). Score of Parentheses  
 [859](859). Buddy Strings  
 [865](865). Smallest Subtree with all the Deepest Nodes  
 [867](867). Transpose Matrix  
