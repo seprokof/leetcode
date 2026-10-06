@@ -241,6 +241,7 @@ Solutions to problems from leetcode.com.
 [908](908). Smallest Range I  
 [909](909). Snakes and Ladders  
 [914](914). X of a Kind in a Deck of Cards  
+[921](921). Minimum Add to Make Parentheses Valid  
 [922](922). Sort Array By Parity II  
 [933](933). Number of Recent Calls  
 [941](941). Valid Mountain Array  
