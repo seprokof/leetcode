@@ -400,6 +400,7 @@ Solutions to problems from leetcode.com.
 [1861](1861). Rotating the Box  
 [1863](1863). Sum of All Subset XOR Totals  
 [1865](1865). Finding Pairs With a Certain Sum  
+[1876](1876). Substrings of Size Three with Distinct Characters  
 [1877](1877). Minimize Maximum Pair Sum in Array  
 [1878](1878). Get Biggest Three Rhombus Sums in a Grid  
 [1886](1886). Determine Whether Matrix Can Be Obtained By Rotation  
