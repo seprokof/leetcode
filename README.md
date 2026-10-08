@@ -521,6 +521,7 @@ Solutions to problems from leetcode.com.
 [2410](2410). Maximum Matching of Players With Trainers  
 [2418](2418). Sort the People  
 [2419](2419). Longest Subarray With Maximum Bitwise AND  
+[2427](2427). Number of Common Factors  
 [2432](2432). The Employee That Worked on the Longest Task  
 [2437](2437). Number of Valid Clock Times  
 [2438](2438). Range Product Queries of Powers  
