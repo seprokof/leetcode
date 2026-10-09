@@ -346,6 +346,7 @@ Solutions to problems from leetcode.com.
 [1526](1526). Minimum Number of Increments on Subarrays to Form a Target Array  
 [1534](1534). Count Good Triplets  
 [1536](1536). Minimum Swaps to Arrange a Binary Grid  
+[1541](1541). Minimum Insertions to Balance a Parentheses String  
 [1545](1545). Find Kth Bit in Nth Binary String  
 [1550](1550). Three Consecutive Odds  
 [1556](1556). Thousand Separator  
