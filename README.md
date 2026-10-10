@@ -782,6 +782,7 @@ Solutions to problems from leetcode.com.
 [3880](3880). Minimum Absolute Difference Between Two Values  
 [3903](3903). Smallest Stable Index I  
 [3904](3904). Smallest Stable Index II  
+[3921](3921). Score Validator  
 [3931](3931). Check Adjacent Digit Differences  
 [3950](3950). Exactly One Consecutive Set Bits Pair  
 [3963](3963). Create Grid With Exactly One Path  
