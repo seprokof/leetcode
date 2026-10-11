@@ -577,6 +577,7 @@ Solutions to problems from leetcode.com.
 [2744](2744). Find Maximum Number of String Pairs  
 [2760](2760). Longest Even Odd Subarray With Threshold  
 [2770](2770). Maximum Number of Jumps to Reach the Last Index  
+[2778](2778). Sum of Squares of Special Elements  
 [2780](2780). Minimum Index of a Valid Split  
 [2784](2784). Check if Array is Good  
 [2785](2785). Sort Vowels in a String  
