@@ -378,6 +378,7 @@ Solutions to problems from leetcode.com.
 [1732](1732). Find the Highest Altitude  
 [1733](1733). Minimum Number of People to Teach  
 [1742](1742). Maximum Number of Balls in a Box  
+[1748](1748). Sum of Unique Elements  
 [1749](1749). Maximum Absolute Sum of Any Subarray  
 [1752](1752). Check if Array Is Sorted and Rotated  
 [1758](1758). Minimum Changes To Make Alternating Binary String  
