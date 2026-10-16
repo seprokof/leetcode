@@ -443,6 +443,7 @@ Solutions to problems from leetcode.com.
 [2053](2053). Kth Distinct String in an Array  
 [2054](2054). Two Best Non-Overlapping Events  
 [2058](2058). Find the Minimum and Maximum Number of Nodes Between Critical Points  
+[2062](2062). Count Vowel Substrings of a String  
 [2068](2068). Check Whether Two Strings are Almost Equivalent  
 [2069](2069). Walking Robot Simulation II  
 [2075](2075). Decode the Slanted Ciphertext  
