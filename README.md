@@ -576,6 +576,7 @@ Solutions to problems from leetcode.com.
 [2685](2685). Count the Number of Complete Components  
 [2697](2697). Lexicographically Smallest Palindrome  
 [2698](2698). Find the Punishment Number of an Integer  
+[2706](2706). Buy Two Chocolates  
 [2729](2729). Check if The Number is Fascinating  
 [2744](2744). Find Maximum Number of String Pairs  
 [2760](2760). Longest Even Odd Subarray With Threshold  
