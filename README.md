@@ -783,6 +783,7 @@ Solutions to problems from leetcode.com.
 [3827](3827). Count Monobit Integers  
 [3833](3833). Count Dominant Indices  
 [3838](3838). Weighted Word Mapping  
+[3842](3842). Toggle Light Bulbs  
 [3867](3867). Sum of GCD of Formed Pairs  
 [3870](3870). Count Commas in Range  
 [3871](3871). Count Commas in Range II  
