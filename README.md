@@ -753,6 +753,7 @@ Solutions to problems from leetcode.com.
 [3635](3635). Earliest Finish Time for Land and Water Rides II  
 [3637](3637). Trionic Array I  
 [3643](3643). Flip Square Submatrix Vertically  
+[3644](3644). Maximum K to Sort a Permutation  
 [3653](3653). XOR After Range Multiplication Queries I  
 [3658](3658). GCD of Odd and Even Sums  
 [3663](3663). Find The Least Frequent Digit  
