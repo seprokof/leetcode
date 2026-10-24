@@ -524,6 +524,7 @@ Solutions to problems from leetcode.com.
 [2390](2390). Removing Stars From a String  
 [2401](2401). Longest Nice Subarray  
 [2404](2404). Most Frequent Even Element  
+[2409](2409). Count Days Spent Together  
 [2410](2410). Maximum Matching of Players With Trainers  
 [2418](2418). Sort the People  
 [2419](2419). Longest Subarray With Maximum Bitwise AND  
