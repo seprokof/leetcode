@@ -503,6 +503,7 @@ Solutions to problems from leetcode.com.
 [2283](2283). Check if Number Has Equal Digit Count and Digit Value  
 [2293](2293). Min Max Game  
 [2294](2294). Partition Array Such That Maximum Difference Is K  
+[2299](2299). Strong Password Checker II  
 [2300](2300). Successful Pairs of Spells and Potions  
 [2302](2302). Count Subarrays With Score Less Than K  
 [2303](2303). Calculate Amount Paid in Taxes  
