@@ -616,6 +616,7 @@ Solutions to problems from leetcode.com.
 [2942](2942). Find Words Containing Character  
 [2943](2943). Maximize Area of Square Hole in Grid  
 [2946](2946). Matrix Similarity After Cyclic Shifts  
+[2947](2947). Count Beautiful Substrings I  
 [2951](2951). Find the Peaks  
 [2958](2958). Length of Longest Subarray With at Most K Frequency  
 [2962](2962). Count Subarrays Where Max Element Appears at Least K Times  
