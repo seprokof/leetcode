@@ -374,6 +374,7 @@ Solutions to problems from leetcode.com.
 [1684](1684). Count the Number of Consistent Strings  
 [1689](1689). Partitioning Into Minimum Number Of Deci-Binary Numbers  
 [1695](1695). Maximum Erasure Value  
+[1700](1700). Number of Students Unable to Eat Lunch  
 [1704](1704). Determine if String Halves Are Alike  
 [1716](1716). Calculate Money in Leetcode Bank  
 [1717](1717). Maximum Score From Removing Substrings  
