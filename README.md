@@ -514,6 +514,7 @@ Solutions to problems from leetcode.com.
 [2309](2309). Greatest English Letter in Upper and Lower Case  
 [2311](2311). Longest Binary Subsequence Less Than or Equal to K  
 [2325](2325). Decode the Message  
+[2331](2331). Evaluate Boolean Binary Tree  
 [2336](2336). Smallest Number in Infinite Set  
 [2342](2342). Max Sum of a Pair With Equal Sum of Digits  
 [2347](2347). Best Poker Hand  
