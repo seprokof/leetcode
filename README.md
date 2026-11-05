@@ -320,6 +320,7 @@ Solutions to problems from leetcode.com.
 [1370](1370). Increasing Decreasing String  
 [1372](1372). Longest ZigZag Path in a Binary Tree  
 [1382](1382). Balance a Binary Search Tree  
+[1385](1385). Find the Distance Value Between Two Arrays  
 [1386](1386). Cinema Seat Allocation  
 [1390](1390). Four Divisors  
 [1391](1391). Check if There is a Valid Path in a Grid  
