@@ -590,6 +590,7 @@ Solutions to problems from leetcode.com.
 [2706](2706). Buy Two Chocolates  
 [2729](2729). Check if The Number is Fascinating  
 [2744](2744). Find Maximum Number of String Pairs  
+[2747](2747). Count Zero Request Servers  
 [2760](2760). Longest Even Odd Subarray With Threshold  
 [2770](2770). Maximum Number of Jumps to Reach the Last Index  
 [2778](2778). Sum of Squares of Special Elements  
