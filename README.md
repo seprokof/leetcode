@@ -413,6 +413,7 @@ Solutions to problems from leetcode.com.
 [1876](1876). Substrings of Size Three with Distinct Characters  
 [1877](1877). Minimize Maximum Pair Sum in Array  
 [1878](1878). Get Biggest Three Rhombus Sums in a Grid  
+[1882](1882). Process Tasks Using Servers  
 [1886](1886). Determine Whether Matrix Can Be Obtained By Rotation  
 [1895](1895). Largest Magic Square  
 [1897](1897). Redistribute Characters to Make All Strings Equal  
