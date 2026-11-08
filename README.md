@@ -294,6 +294,7 @@ Solutions to problems from leetcode.com.
 [1261](1261). Find Elements in a Contaminated Binary Tree  
 [1262](1262). Greatest Sum Divisible by Three  
 [1266](1266). Minimum Time Visiting All Points  
+[1267](1267). Count Servers that Communicate  
 [1268](1268). Search Suggestions System  
 [1288](1288). Remove Covered Intervals  
 [1290](1290). Convert Binary Number in a Linked List to Integer  
