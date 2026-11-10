@@ -779,6 +779,7 @@ Solutions to problems from leetcode.com.
 [3684](3684). Maximize Sum of At Most K Distinct Elements  
 [3689](3689). Maximum Total Subarray Value I  
 [3692](3692). Majority Frequency Characters  
+[3693](3693). Climbing Stairs II  
 [3697](3697). Compute Decimal Representation  
 [3701](3701). Compute Alternating Sum  
 [3702](3702). Longest Subsequence With Non-Zero Bitwise XOR  
