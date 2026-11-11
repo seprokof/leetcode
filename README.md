@@ -799,6 +799,7 @@ Solutions to problems from leetcode.com.
 [3761](3761). Minimum Absolute Distance Between Mirror Pairs  
 [3774](3774). Absolute Difference Between Maximum and Minimum K Elements  
 [3783](3783). Mirror Distance of an Integer  
+[3789](3789). Minimum Cost to Acquire Required Items  
 [3794](3794). Reverse String Prefix  
 [3827](3827). Count Monobit Integers  
 [3833](3833). Count Dominant Indices  
