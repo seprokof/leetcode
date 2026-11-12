@@ -442,6 +442,7 @@ Solutions to problems from leetcode.com.
 [1980](1980). Find Unique Binary String  
 [1984](1984). Minimum Difference Between Highest and Lowest of K Scores  
 [1991](1991). Find the Middle Index in Array  
+[2000](2000). Reverse Prefix of Word  
 [2006](2006). Count Number of Pairs With Absolute Difference K  
 [2011](2011). Final Value of Variable After Performing Operations  
 [2016](2016). Maximum Difference Between Increasing Elements  
