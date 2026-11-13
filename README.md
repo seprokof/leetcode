@@ -820,3 +820,4 @@ Solutions to problems from leetcode.com.
 [3950](3950). Exactly One Consecutive Set Bits Pair  
 [3963](3963). Create Grid With Exactly One Path  
 [4010](4010). Maximize Pair Strength Using GCD  
+[4097](4097). Minimum Value of Merged Integers  
