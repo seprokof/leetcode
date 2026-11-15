@@ -287,6 +287,7 @@ Solutions to problems from leetcode.com.
 [1200](1200). Minimum Absolute Difference  
 [1207](1207). Unique Number of Occurrences  
 [1221](1221). Split a String in Balanced Strings  
+[1232](1232). Check If It Is a Straight Line  
 [1233](1233). Remove Sub-Folders from the Filesystem  
 [1252](1252). Cells with Odd Values in a Matrix  
 [1254](1254). Number of Closed Islands  
