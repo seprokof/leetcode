@@ -503,6 +503,7 @@ Solutions to problems from leetcode.com.
 [2231](2231). Largest Number After Digit Swaps by Parity  
 [2236](2236). Root Equals Sum of Children  
 [2239](2239). Find Closest Number to Zero  
+[2243](2243). Calculate Digit Sum of a String  
 [2248](2248). Intersection of Multiple Arrays  
 [2257](2257). Count Unguarded Cells in the Grid  
 [2259](2259). Remove Digit From Number to Maximize Result  
