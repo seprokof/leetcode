@@ -573,6 +573,7 @@ Solutions to problems from leetcode.com.
 [2560](2560). House Robber IV  
 [2563](2563). Count the Number of Fair Pairs  
 [2566](2566). Maximum Difference by Remapping a Digit  
+[2567](2567). Minimum Score by Changing Two Elements  
 [2570](2570). Merge Two 2D Arrays by Summing Values  
 [2574](2574). Left and Right Sum Differences  
 [2579](2579). Count Total Number of Colored Cells  
