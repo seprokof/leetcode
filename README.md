@@ -535,6 +535,7 @@ Solutions to problems from leetcode.com.
 [2353](2353). Design a Food Rating System  
 [2357](2357). Make Array Zero by Subtracting Equal Amounts  
 [2359](2359). Find Closest Node to Given Two Nodes  
+[2363](2363). Merge Similar Items  
 [2364](2364). Count Number of Bad Pairs  
 [2367](2367). Number of Arithmetic Triplets  
 [2375](2375). Construct Smallest Number From DI String  
