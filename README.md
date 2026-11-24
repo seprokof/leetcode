@@ -731,6 +731,7 @@ Solutions to problems from leetcode.com.
 [3397](3397). Maximum Number of Distinct Elements After Operations  
 [3403](3403). Find the Lexicographically Largest String From the Box I  
 [3408](3408). Design Task Manager  
+[3411](3411). Maximum Subarray With Equal Products  
 [3423](3423). Maximum Difference Between Adjacent Elements in a Circular Array  
 [3432](3432). Count Partitions with Even Sum Difference  
 [3433](3433). Count Mentions Per User  
