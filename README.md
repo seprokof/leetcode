@@ -677,6 +677,7 @@ Solutions to problems from leetcode.com.
 [3147](3147). Taking Maximum Energy From the Mystic Dungeon  
 [3151](3151). Special Array I  
 [3152](3152). Special Array II  
+[3158](3158). Find the XOR of Numbers Which Appear Twice  
 [3160](3160). Find the Number of Distinct Colors Among the Balls  
 [3168](3168). Minimum Number of Chairs in a Waiting Room  
 [3169](3169). Count Days Without Meetings  
